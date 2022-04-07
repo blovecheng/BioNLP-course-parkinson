@@ -3,14 +3,14 @@
 
 ## 1、获取parkinson相关文献的PMID
 ```
-from Bio import Entrez
+from Bio import Entrez   #调包
 handle = Entrez.esearch(db = "pubmed", term = "parkinson", retmax = "160000")
-record = Entrez.read(handle)
-n = int(record["Count"])
+record = Entrez.read(handle)   #获取搜索结果
+n = int(record["Count"])   #PMID号总数
 
 output = open("C:/Users/DELL/Desktop/BioNLP/parkinson_PMID.txt","wt")
 for i in range(n):
-    output.write(record["IdList"][i] + "\n")
+    output.write(record["IdList"][i] + "\n")   #将结果读入到文本文件中
 output.close()
 ```
 得到一个存储着104544个pmid号的文本文件parkinson_PMID.txt
