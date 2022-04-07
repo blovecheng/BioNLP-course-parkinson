@@ -1,3 +1,6 @@
+#@author: 陈佳雨
+#@date: 2022/04/06
+
 from Bio import Entrez
 handle = Entrez.esearch(db = "pubmed", term = "parkinson", retmax = "160000")
 record = Entrez.read(handle)
