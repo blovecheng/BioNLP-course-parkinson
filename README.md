@@ -13,7 +13,7 @@ for i in range(n):
     output.write(record["IdList"][i] + "\n")
 output.close()
 ```
-得到一个存储着104544个pmid号的文本文件
+得到一个存储着104544个pmid号的文本文件parkinson_PMID.txt
 
 ## 2、获取文献标题摘要及实体信息
-利用老师上课讲到的shell脚本通过PubTator进行提取得到结果文件
+利用Python提供的第三方库requests模块通过PubTator进行提取得到结果文件，文件包含PMID号对应文献的标题、摘要和已被标注的实体信息。
