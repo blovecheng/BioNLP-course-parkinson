@@ -1,3 +1,6 @@
+#@author: 陈佳雨
+#@date: 2022/04/07
+
 import requests
 
 with open("C:/Users/DELL/Desktop/BioNLP/parkinson_PMID.txt", "r") as file:
