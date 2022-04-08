@@ -24,7 +24,7 @@ with open("C:/Users/DELL/Desktop/BioNLP/parkinson_PMID.txt", "r") as file:
     pmids = [pmid.strip("\n") for pmid in file.readlines()]   #将PMID号以列表形式储存
 
 out = open("C:/Users/DELL/Desktop/BioNLP/parkinson_pubtator.txt", "a+")
-for pmid in pmids[22465:23000]:
+for pmid in pmids:
     data = requests.get("https://www.ncbi.nlm.nih.gov/research/pubtator-api/publications/export/pubtator?pmids=" + pmid)   #连接网站，抓取实体信息
     out.write(data.text)   #输出抓取结果（标题、摘要、实体）
 out.close()
