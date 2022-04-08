@@ -29,3 +29,4 @@ for pmid in pmids:
     out.write(data.text)   #输出抓取结果（标题、摘要、实体）
 out.close()
 ```
+*parkinson_pubtator.txt文件超过25M无法上传
