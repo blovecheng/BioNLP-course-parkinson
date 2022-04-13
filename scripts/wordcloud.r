@@ -1,5 +1,6 @@
 #@author: 吴欣然
 #@date: 2022/04/12
+#参考代码来源：https://github.com/kiekie233/BioNLP-course/blob/main/script/Get_entity_freq.R
 
 #entity
 install.packages("wordcloud2")
