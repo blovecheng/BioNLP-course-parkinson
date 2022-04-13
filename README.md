@@ -47,3 +47,8 @@ grep -E "\bCellLine\b" entity.txt  > cellline.txt
 grep -E "\bSpecies\b" entity.txt  > species.txt
 ```
 部分结果已上传到/data文件夹下
+
+## 4、计算词频并绘制词云图
+#参考代码来源：https://github.com/kiekie233/BioNLP-course/blob/main/script/Get_entity_freq.R
+参考代码并进行简化实现六种实体的词频计算并绘制出整体entity的词云图
+修改过的代码放在/scripts文件夹下 # wordcloud.r
