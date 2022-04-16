@@ -1,0 +1,1137 @@
+"Var1"	"Freq"
+"281"	"dopamine"	251
+"536"	"MPTP"	98
+"438"	"iron"	94
+"245"	"DA"	90
+"457"	"levodopa"	87
+"464"	"lipid"	47
+"718"	"rotenone"	44
+"84"	"6-OHDA"	35
+"177"	"calcium"	34
+"446"	"L-DOPA"	30
+"664"	"PQ"	29
+"501"	"mercury"	27
+"467"	"lipids"	26
+"740"	"serine"	26
+"156"	"beta-CIT"	23
+"830"	"uric acid"	23
+"506"	"metal"	22
+"716"	"ROS"	20
+"174"	"Ca2+"	19
+"844"	"water"	18
+"826"	"tyrosine"	17
+"142"	"ATP"	15
+"282"	"Dopamine"	15
+"264"	"digoxin"	14
+"458"	"Levodopa"	14
+"604"	"oxygen"	14
+"346"	"FP-CIT"	13
+"26"	"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"	12
+"83"	"6-hydroxydopamine"	12
+"359"	"GlcCer"	12
+"364"	"glucosylceramide"	12
+"439"	"Iron"	12
+"450"	"lactate"	12
+"705"	"reactive oxygen species"	12
+"114"	"ambroxol"	11
+"205"	"chloroquine"	11
+"535"	"MPP+"	11
+"620"	"pergolide"	11
+"708"	"resveratrol"	11
+"206"	"cholesterol"	10
+"277"	"DMTHB"	10
+"325"	"FDOPA"	10
+"363"	"glucose"	10
+"368"	"glutamate"	10
+"417"	"hydrogen"	10
+"610"	"paraquat"	10
+"666"	"pramipexole"	10
+"52"	"18F-FDG"	9
+"354"	"ghrelin"	9
+"491"	"mannitol"	9
+"521"	"MIBG"	9
+"622"	"PFF"	9
+"702"	"rasagiline"	9
+"719"	"Rotenone"	9
+"193"	"catecholamine"	8
+"202"	"CFT"	8
+"231"	"Cu"	8
+"570"	"Neu5ac"	8
+"110"	"aluminium"	7
+"221"	"copper"	7
+"275"	"DMC"	7
+"414"	"HoloLens"	7
+"444"	"L-dopa"	7
+"445"	"L-Dopa"	7
+"571"	"neuromelanin"	7
+"590"	"norepinephrine"	7
+"647"	"piperine"	7
+"749"	"silver"	7
+"45"	"123I-ioflupane"	6
+"53"	"18F-FP-CIT"	6
+"115"	"Ambroxol"	6
+"164"	"Brazilin"	6
+"194"	"catecholamines"	6
+"199"	"ceramide"	6
+"288"	"doxycycline"	6
+"475"	"LPS"	6
+"481"	"lycorine"	6
+"510"	"metformin"	6
+"558"	"NAb-alpha-Syn"	6
+"584"	"nitrogen"	6
+"617"	"peptides"	6
+"618"	"perampanel"	6
+"665"	"PQQ"	6
+"693"	"queuine"	6
+"701"	"rapamycin"	6
+"750"	"sirolimus"	6
+"769"	"staurosporine"	6
+"40"	"11C-CFT"	5
+"101"	"alcohol"	5
+"125"	"anthocyanin"	5
+"145"	"AZD3759"	5
+"179"	"calycosin"	5
+"186"	"carbon"	5
+"294"	"EA"	5
+"326"	"Fe"	5
+"371"	"glutathione"	5
+"384"	"gosuranemab"	5
+"403"	"hesperidin"	5
+"437"	"IPT"	5
+"440"	"iTBS"	5
+"448"	"L-selegiline"	5
+"483"	"lysine"	5
+"494"	"MeHg"	5
+"502"	"Mercury"	5
+"514"	"methionine"	5
+"566"	"NBP"	5
+"600"	"oligonucleotide"	5
+"638"	"phospholipids"	5
+"658"	"polyphenol"	5
+"713"	"ROF"	5
+"715"	"ropinirole"	5
+"766"	"sphingolipids"	5
+"805"	"ThT"	5
+"838"	"vitamin D"	5
+"850"	"Zn"	5
+"30"	"1-methyl-4-phenylpyridinium"	4
+"39"	"11C"	4
+"44"	"123I-FP-CIT"	4
+"94"	"adenosine"	4
+"112"	"aluminum"	4
+"124"	"ANS"	4
+"182"	"carbidopa"	4
+"232"	"Cu2+"	4
+"271"	"disulfide"	4
+"320"	"fatty acid"	4
+"430"	"Indazole"	4
+"447"	"L-dopa/carbidopa"	4
+"451"	"LB"	4
+"452"	"LCIG"	4
+"470"	"lipopolysaccharide"	4
+"477"	"LTI-291"	4
+"495"	"melanin"	4
+"497"	"memantine"	4
+"503"	"MEs"	4
+"518"	"MG132"	4
+"559"	"nAbs"	4
+"579"	"nifene"	4
+"581"	"nitric oxide"	4
+"601"	"oligonucleotides"	4
+"637"	"phospholipid"	4
+"643"	"PI-2620"	4
+"673"	"proline"	4
+"703"	"Rasagiline"	4
+"760"	"sodium selenate"	4
+"772"	"STL-101"	4
+"806"	"tilavonemab"	4
+"834"	"venglustat"	4
+"846"	"WMH"	4
+"10"	"[18F]nifene"	3
+"14"	"[I-123]IPT"	3
+"29"	"1-methyl-4-phenylpyridine"	3
+"73"	"3,4-dihydroxyphenylacetic acid"	3
+"80"	"5,6-indolequinone"	3
+"91"	"acetylcholine"	3
+"111"	"Aluminium"	3
+"113"	"amantadine"	3
+"120"	"AMP"	3
+"130"	"apomorphine"	3
+"132"	"arginine"	3
+"137"	"ASO4"	3
+"161"	"bisquinoline"	3
+"168"	"butylphthalide"	3
+"198"	"CDTadj"	3
+"214"	"CLBs"	3
+"224"	"CoQ10"	3
+"229"	"CTAB"	3
+"241"	"cytosine-phosphate-guanine"	3
+"246"	"daidzein"	3
+"279"	"dopa"	3
+"286"	"doxorubicin"	3
+"295"	"EB-42168"	3
+"297"	"EGCG"	3
+"310"	"etoposide"	3
+"342"	"FMN"	3
+"366"	"glucosylsphingosine"	3
+"383"	"GO"	3
+"388"	"graphene oxide"	3
+"391"	"GSH"	3
+"418"	"hydrogen peroxide"	3
+"455"	"Leucine"	3
+"461"	"levodopa/benserazide"	3
+"466"	"lipid bilayer"	3
+"480"	"LY2019"	3
+"482"	"Lycorine"	3
+"492"	"Mannitol"	3
+"507"	"Metal"	3
+"524"	"miR-101-3p"	3
+"547"	"N-acetyl cysteine"	3
+"556"	"NaB"	3
+"578"	"nicotine"	3
+"591"	"NSDD"	3
+"602"	"OTA"	3
+"614"	"PE2I"	3
+"627"	"phosphate"	3
+"639"	"phosphorus"	3
+"645"	"PIP2"	3
+"668"	"prasinezumab"	3
+"679"	"pSer129"	3
+"694"	"Queuine"	3
+"717"	"Rot"	3
+"723"	"SCOPA"	3
+"724"	"scopoletin"	3
+"727"	"selegiline"	3
+"741"	"Serine"	3
+"751"	"Sirolimus"	3
+"779"	"T3"	3
+"780"	"tannic acid"	3
+"829"	"urate"	3
+"842"	"VitB12"	3
+"3"	"-metaiodobenzylguanidine"	2
+"20"	"1-hydroxypyrazin-2"	2
+"21"	"1-hydroxypyridin-2(1H)-ones"	2
+"22"	"1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine"	2
+"23"	"1-methyl-4-phenyl-1,2,3, 6-tetrahydropyridine"	2
+"42"	"11C-PBR28"	2
+"48"	"123I-MIBG"	2
+"50"	"13C2H15N"	2
+"54"	"1H"	2
+"55"	"1H-indazole"	2
+"70"	"3-Brpa"	2
+"75"	"3H-indazole"	2
+"78"	"5-(4-pyridinyl)-1,2,4-triazole"	2
+"98"	"Ala1950"	2
+"126"	"anthocyanins"	2
+"127"	"Anthocyanins"	2
+"138"	"ASOs"	2
+"147"	"bafilomycin A1"	2
+"163"	"BPAN"	2
+"170"	"butyrate"	2
+"178"	"Calcium"	2
+"181"	"cAMP"	2
+"187"	"carbon monoxide"	2
+"188"	"carbon nanotube"	2
+"190"	"cardiolipin"	2
+"204"	"chlorogenic acid"	2
+"217"	"cocaine"	2
+"227"	"creatinine"	2
+"228"	"CS"	2
+"233"	"cyclohexane"	2
+"237"	"cysteines"	2
+"239"	"cysteinyl-catechols"	2
+"244"	"D-PUFAs"	2
+"247"	"dCIT"	2
+"252"	"Demethylenetetrahydroberberine"	2
+"254"	"deuterium"	2
+"259"	"DHPG"	2
+"280"	"DOPAC"	2
+"283"	"dopamine-o-quinone"	2
+"289"	"Doxycycline"	2
+"290"	"DP189"	2
+"291"	"DSS"	2
+"293"	"E10"	2
+"298"	"ellagic acid"	2
+"300"	"Ellagic Acid"	2
+"302"	"eosin"	2
+"309"	"ETM"	2
+"318"	"farnesol"	2
+"319"	"Farnesol"	2
+"322"	"Fatty acids"	2
+"324"	"FDG"	2
+"328"	"Fe2+"	2
+"332"	"Ferruginol"	2
+"334"	"fisetin"	2
+"339"	"fluoro-L-Dopa"	2
+"340"	"fluorodopamine"	2
+"344"	"formalin"	2
+"353"	"gangliosides"	2
+"355"	"Ghrelin"	2
+"356"	"Ginkgolide K"	2
+"365"	"glucosylceramides"	2
+"380"	"glycosphingolipids"	2
+"381"	"glycyrrhetic acid"	2
+"387"	"graphene"	2
+"393"	"GTP"	2
+"399"	"H2O2"	2
+"400"	"Hematoxylin"	2
+"408"	"HexSph"	2
+"411"	"His433"	2
+"423"	"IACFT"	2
+"427"	"IND-1233-ASO"	2
+"429"	"indazole"	2
+"433"	"iodobenzamide"	2
+"441"	"KRG"	2
+"449"	"L-tryptophan"	2
+"454"	"leucine"	2
+"459"	"levodopa-carbidopa"	2
+"469"	"lipofuscin"	2
+"472"	"liproxstatin-1"	2
+"474"	"LP"	2
+"479"	"luminal"	2
+"490"	"Manganese"	2
+"498"	"Memantine"	2
+"520"	"MHPG"	2
+"525"	"miR-153-3p"	2
+"529"	"MK-7"	2
+"530"	"MLi-2"	2
+"542"	"MTT"	2
+"553"	"NaA"	2
+"554"	"NAADP"	2
+"557"	"NAb"	2
+"563"	"NAD+"	2
+"567"	"NDD"	2
+"568"	"NDD+"	2
+"574"	"nFoG"	2
+"586"	"NMDA"	2
+"595"	"ochratoxin A"	2
+"597"	"OLA"	2
+"606"	"p-tau181"	2
+"608"	"paraffin"	2
+"616"	"peptide"	2
+"619"	"Perampanel"	2
+"623"	"PFFs"	2
+"628"	"phosphatidic acid"	2
+"646"	"PIP3"	2
+"650"	"poly(AN-co-MSAN)"	2
+"655"	"polymer"	2
+"657"	"polymers"	2
+"662"	"polyunsaturated fatty acids"	2
+"667"	"Pramipexole"	2
+"672"	"probenecid"	2
+"680"	"PSER129"	2
+"686"	"purine"	2
+"692"	"pyrroloquinoline quinone"	2
+"712"	"riboflavin"	2
+"714"	"Roflupram"	2
+"721"	"SCFAs"	2
+"725"	"SDS"	2
+"733"	"Ser129"	2
+"736"	"Ser228"	2
+"737"	"Ser65"	2
+"738"	"Ser910"	2
+"739"	"Ser935"	2
+"742"	"Serine228"	2
+"745"	"serotonin"	2
+"746"	"short-chain fatty acids"	2
+"747"	"short chain fatty acids"	2
+"757"	"sodium butyrate"	2
+"762"	"SP"	2
+"764"	"sphingolipid"	2
+"776"	"sucrose"	2
+"777"	"sulfur"	2
+"782"	"Tau+PQ"	2
+"783"	"taurine"	2
+"798"	"thioflavin T"	2
+"799"	"Thioflavin T"	2
+"811"	"Tocotrienols"	2
+"835"	"Venglustat"	2
+"845"	"Withaferin A"	2
+"848"	"Y1527"	2
+"849"	"zinc oxide"	2
+"1"	"-b-epoxide"	1
+"2"	"-dopamine"	1
+"4"	"-syn PFF"	1
+"5"	"(-)-epigallocatechin gallate"	1
+"6"	")F]-"	1
+"7"	")tropane"	1
+"8"	"[11C]-raclopride"	1
+"9"	"[18F]-6-fluoro-L-dopa"	1
+"11"	"[18F]Nifene"	1
+"12"	"[C-11]-PE2I"	1
+"13"	"[I-123] IPT"	1
+"15"	"[I-123]N-(3-iodopropen-2-yl)-2beta-carbomethoxy-3beta-(4-chl orophenyl) tropane"	1
+"16"	"]-metaiodobenzylguanidine"	1
+"17"	"] beta-CIT"	1
+"18"	"] N-(3-fluoropropyl)-2beta-carbonethoxy-3beta-(4-iodophenyl) nortropane"	1
+"19"	"]FDOPA"	1
+"24"	"1-methyl-4-phenyl-1,2,3,6- tetrahydropyran"	1
+"25"	"1-methyl-4-phenyl-1,2,3,6-tetrahydropiridine"	1
+"27"	"1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine"	1
+"28"	"1-Methyl-4-Phenyl-1,2,3,6-Tetrahydropyridine"	1
+"31"	"1-Methyl-4-phenylpyridinium"	1
+"32"	"1-methyl, 4-phenyl, 1,2,3,6 tetrahydropyridine"	1
+"33"	"1,2-dioleoyl-sn-glycero-3-phosphocholine"	1
+"34"	"1,2-dipalmitoyl-sn-glycero-3-phosphocholine"	1
+"35"	"1,3-bisphosphoglycerate"	1
+"36"	"1,3-BPG"	1
+"37"	"11-amino-1-undecanethiol"	1
+"38"	"11-AUT"	1
+"41"	"11C-methyl-N-2beta-carbomethoxy-3beta-(4-fluorophenyl)-tropanel"	1
+"43"	"123 I-ioflupane"	1
+"46"	"123I-Ioflupane"	1
+"47"	"123I-metaiodobenzylguanidine"	1
+"49"	"123ioflupane"	1
+"51"	"18F-DOPA"	1
+"56"	"2-beta-carbomethoxy-3beta-(4-[11C]fluorophenyl)tropane"	1
+"57"	"2-beta-carbomethoxy-3beta-(4-fluorophenyl) tropane"	1
+"58"	"2 beta-carboxymethoxy-3 beta-(4-iodophenyl)tropane"	1
+"59"	"2 beta-carboxymethoxy-3 beta-(4[123I]iodophenyl)tropane"	1
+"60"	"2beta-carbomethoxy-3beta-(4-[("	1
+"61"	"2beta-carbomethoxy-3beta-(4-[18F]fluorophenyl)tropane"	1
+"62"	"2Beta-carbomethoxy-3beta-(4-fluorophenyl)-n-(1-iodoprop-1-en -3-yl) nortropane"	1
+"63"	"2beta-carbomethoxy-3beta-[4-iodophenyl]tropane"	1
+"64"	"2beta-carboxymethoxy-3beta-[4-iodophenyl] tropane"	1
+"65"	"2H"	1
+"66"	"2H-indazole"	1
+"67"	"3-(4,5-dimethyithiazol-2-yl)-2,5-diphenyl-tetrazolium bromide"	1
+"68"	"3-[(propan- 2-yl)oxy]propan-1-amine"	1
+"69"	"3-bromopyruvic acid"	1
+"71"	"3-mercaptopropionic acid"	1
+"72"	"3-methoxy-4-hydroxyphenylglycol"	1
+"74"	"3,4-dihydroxyphenylglycol"	1
+"76"	"4-methylumbelliferyl beta-D-glucopyranoside"	1
+"77"	"4,4-Dimethoxychalcone	Chemical	-
+34332078	64	74	riboflavin	Chemical	MESH:D012256
+34332078	313	335	4,4-dimethoxychalcone"	1
+"79"	"5-(4-Pyridinyl)-1,2,4-triazole"	1
+"81"	"5uM NBP"	1
+"82"	"6-[18F]fluoro-L-m-tyrosine"	1
+"85"	"8-anilinonaphthalene-1-sulfonic acid"	1
+"86"	"99mTc-TRODAT-1"	1
+"87"	"AAV"	1
+"88"	"Abeta"	1
+"89"	"acetate"	1
+"90"	"acetyl-Asp-Glu-Val-Asp-aldehyde"	1
+"92"	"acyl-CoA"	1
+"93"	"adalimumab"	1
+"95"	"ADV"	1
+"96"	"Al"	1
+"97"	"ala"	1
+"99"	"Ala69"	1
+"100"	"alanine"	1
+"102"	"Alcohol"	1
+"103"	"alcoholic-sugar"	1
+"104"	"All-trans-retinoic acid"	1
+"105"	"alpha-Klotho"	1
+"106"	"alpha-methyl-paratyrosine"	1
+"107"	"alpha-syn"	1
+"108"	"alpha-syn PFF"	1
+"109"	"alphaSyn-PM"	1
+"116"	"Ambroxol hydrochloride"	1
+"117"	"amide"	1
+"118"	"amino-cupric-silver"	1
+"119"	"ammonium"	1
+"121"	"amphetamine"	1
+"122"	"AMPT"	1
+"123"	"aniline"	1
+"128"	"AO"	1
+"129"	"Apo"	1
+"131"	"arachidonic acid"	1
+"133"	"arsenic"	1
+"134"	"As"	1
+"135"	"ascorbic acid"	1
+"136"	"ASO"	1
+"139"	"Asp-N"	1
+"140"	"Asp121"	1
+"141"	"aspartate"	1
+"143"	"AuNP"	1
+"144"	"AuNPs"	1
+"146"	"B-Meson"	1
+"148"	"benzimidazole"	1
+"149"	"Benzo"	1
+"150"	"benzo[a]pyrene"	1
+"151"	"benzopyridine"	1
+"152"	"benzosulphonamide"	1
+"153"	"benzothiazole"	1
+"154"	"berberine"	1
+"155"	"beta-CFT"	1
+"157"	"beta-CIT ((1R)-2beta-Carbomethoxy-3beta-(4-iodophenyl)tropane"	1
+"158"	"BG"	1
+"159"	"BIIB054"	1
+"160"	"bile acids"	1
+"162"	"Bisquinoline"	1
+"165"	"brefeldin A"	1
+"166"	"bromine"	1
+"167"	"bromocriptine"	1
+"169"	"Butylphthalide"	1
+"171"	"Butyrate"	1
+"172"	"C16"	1
+"173"	"Ca-074-Me"	1
+"175"	"cadmium"	1
+"176"	"caffeine"	1
+"180"	"cambinol"	1
+"183"	"carbidopa/levodopa"	1
+"184"	"carbohydrate"	1
+"185"	"carbohydrates"	1
+"189"	"carboxylic acids"	1
+"191"	"catechin"	1
+"192"	"catechins"	1
+"195"	"cd"	1
+"196"	"CD"	1
+"197"	"CDN1163"	1
+"200"	"ceramide C"	1
+"201"	"ceramides"	1
+"203"	"chitosan"	1
+"207"	"Cholesterol"	1
+"208"	"cholesterolgenesis"	1
+"209"	"cholesterols"	1
+"210"	"cholesteryl ester"	1
+"211"	"choline"	1
+"212"	"cinpanemab"	1
+"213"	"CL-DBS"	1
+"215"	"Cmin"	1
+"216"	"CO"	1
+"218"	"coenzyme q10"	1
+"219"	"coenzyme Q10"	1
+"220"	"Congo red"	1
+"222"	"copper(II)"	1
+"223"	"Copper(II)"	1
+"225"	"CR"	1
+"226"	"creatine"	1
+"230"	"CTIQs"	1
+"234"	"cyclopropyl amide"	1
+"235"	"Cys"	1
+"236"	"cysteine"	1
+"238"	"cysteinyl-3,4-dihydroxyphenylacetic acid"	1
+"240"	"cysteinyl-dopamine"	1
+"242"	"Cz"	1
+"243"	"D-linoleic"	1
+"248"	"DDC"	1
+"249"	"deferiprone"	1
+"250"	"Deferiprone"	1
+"251"	"Delta-T3"	1
+"253"	"deuterated PUFAs"	1
+"255"	"deuteriums"	1
+"256"	"dextran sodium sulfate"	1
+"257"	"dextrose"	1
+"258"	"DHM"	1
+"260"	"diacylglycerol"	1
+"261"	"dicyclohexylcarbodi-imide"	1
+"262"	"digitonin"	1
+"263"	"diglycerides"	1
+"265"	"digoxygenin"	1
+"266"	"Dihydromyricetin"	1
+"267"	"dihydroquinazoline"	1
+"268"	"Dihydroquinazolines"	1
+"269"	"dimethylglyoxime"	1
+"270"	"dioxolo-benzoxazine"	1
+"272"	"Dl-3-n-butylphthalide"	1
+"273"	"Dl-3-n-Butylphthalide"	1
+"274"	"DLPS"	1
+"276"	"DMGO"	1
+"278"	"dNDD"	1
+"284"	"DOPC"	1
+"285"	"DOPS"	1
+"287"	"Doxorubicin"	1
+"292"	"E-64D"	1
+"296"	"ECG"	1
+"299"	"Ellagic acid"	1
+"301"	"entacapone"	1
+"303"	"Epicatechin gallate"	1
+"304"	"Epicatechin Gallate"	1
+"305"	"epidepride"	1
+"306"	"ethyl 2-((4-amino-5-(pyridin-4-yl)-4H-1,2,4-triazol-3-yl)thio)acetate"	1
+"307"	"ethyl cysteinate"	1
+"308"	"ethylene diamine tetraacetic acid"	1
+"311"	"exenatide"	1
+"312"	"exo-ASO4"	1
+"313"	"F-dopa"	1
+"314"	"F-DOPA"	1
+"315"	"F]FDOPA"	1
+"316"	"F]fluoro-L-dopa"	1
+"317"	"FAD"	1
+"321"	"fatty acids"	1
+"323"	"FD"	1
+"327"	"Fe(II)"	1
+"329"	"Fe3+"	1
+"330"	"Fer"	1
+"331"	"ferrous iron"	1
+"333"	"fingolimod"	1
+"335"	"flavin mononucleotide"	1
+"336"	"flavins"	1
+"337"	"Flavonoid"	1
+"338"	"flavonoids"	1
+"341"	"fluoropropyl-carbomethoxylodopropyl-nor-ss-tropane"	1
+"343"	"FMT"	1
+"345"	"Formalin"	1
+"347"	"free radicals"	1
+"348"	"FRGO"	1
+"349"	"FTDP"	1
+"350"	"galactose"	1
+"351"	"Galactose"	1
+"352"	"Gamma-T3"	1
+"357"	"GK"	1
+"358"	"GL-1"	1
+"360"	"GlcSph"	1
+"361"	"Glu1948"	1
+"362"	"GluCer"	1
+"367"	"GluSph"	1
+"369"	"Glutamate"	1
+"370"	"glutamine"	1
+"372"	"Glutathione"	1
+"373"	"glutathione peroxide"	1
+"374"	"glyburide"	1
+"375"	"glycerate"	1
+"376"	"glycerophosphoethanolamines"	1
+"377"	"glycerophospholipids"	1
+"378"	"glycosaminoglycans"	1
+"379"	"glycosphingolipid"	1
+"382"	"GMP"	1
+"385"	"GPE"	1
+"386"	"GPL"	1
+"389"	"Graphene Oxide"	1
+"390"	"GSEA"	1
+"392"	"GSH-Px"	1
+"394"	"guanine"	1
+"395"	"gyroscope"	1
+"396"	"H-89"	1
+"397"	"H-linolenic"	1
+"398"	"H2O"	1
+"401"	"hemes"	1
+"402"	"heparin"	1
+"404"	"hexadecyltrimethylammonium bromide"	1
+"405"	"hexanucleotide"	1
+"406"	"hexosylceramide"	1
+"407"	"hexosylsphingosine"	1
+"409"	"Hg"	1
+"410"	"His13"	1
+"412"	"His50"	1
+"413"	"Holocue"	1
+"415"	"homovanillic acid"	1
+"416"	"HVA"	1
+"419"	"hydrogen sulfide"	1
+"420"	"hydrogens"	1
+"421"	"hydroxyl radicals"	1
+"422"	"I-FP-CIT"	1
+"424"	"IBZM"	1
+"425"	"Ile111"	1
+"426"	"IMU"	1
+"428"	"indatraline"	1
+"431"	"indazoles"	1
+"432"	"indium tin oxide"	1
+"434"	"ioflupane"	1
+"435"	"Ioflupane iodine-123"	1
+"436"	"IP3"	1
+"442"	"KW6002"	1
+"443"	"l-DOPA"	1
+"453"	"Leu10"	1
+"456"	"leupeptin"	1
+"460"	"levodopa-carbidopa intestinal gel"	1
+"462"	"linc001128"	1
+"463"	"linc0938"	1
+"465"	"Lipid"	1
+"468"	"Lipids"	1
+"471"	"Lipopolysaccharide"	1
+"473"	"LM10"	1
+"476"	"LTI"	1
+"478"	"LTS"	1
+"484"	"lysines"	1
+"485"	"m-aminobenzenesulfonic acid"	1
+"486"	"magnetite"	1
+"487"	"malondialdehyde"	1
+"488"	"maneb"	1
+"489"	"manganese"	1
+"493"	"MDA"	1
+"496"	"MELBA"	1
+"499"	"menadione"	1
+"500"	"menaquinone"	1
+"504"	"meta-iodobenzylguanidine"	1
+"505"	"metaiodobenzylguanidine"	1
+"508"	"METAL"	1
+"509"	"metal dichalcogenides"	1
+"511"	"Metformin"	1
+"512"	"methanol"	1
+"513"	"Methanol"	1
+"515"	"methyl-4-phenyl-1,2,3,6-tetrahydropyridine"	1
+"516"	"Methylazoxymethanol"	1
+"517"	"MG-132"	1
+"519"	"MGBA"	1
+"522"	"midbrain organoids"	1
+"523"	"miR-101"	1
+"526"	"miR-24-3p"	1
+"527"	"miR-30c-5p"	1
+"528"	"MiRNA-148a"	1
+"531"	"Monoamine"	1
+"532"	"monoamines"	1
+"533"	"MPP"	1
+"534"	"MPP +"	1
+"537"	"MPTP-probenecid"	1
+"538"	"MSA-C"	1
+"539"	"MSA-P"	1
+"540"	"MSAN"	1
+"541"	"MTEP"	1
+"543"	"muscimol"	1
+"544"	"N-(3-iodoprop-2E-enyl)-2b-carbomethoxy-3b-(4-methyl-phenyl)nortropane)"	1
+"545"	"N-(ethoxycarbonyl)-2-ethoxy-1,2-dihydroquinoline"	1
+"546"	"N-3-fluoropropyl-2-beta-carbomethoxy-3-beta-(4-iodophe nyl)nortropane"	1
+"548"	"n-acetylneuraminic acid"	1
+"549"	"n-Acetylneuraminic Acid"	1
+"550"	"N-methyl-D-aspartate"	1
+"551"	"N-Methyl-D-Aspartate"	1
+"552"	"N-omega-fluoropropyl-2 beta-carbomethoxy-3 beta-(4-iodophenyl)nortropane"	1
+"555"	"nAb"	1
+"560"	"NAC"	1
+"561"	"NaCl"	1
+"562"	"NAD"	1
+"564"	"NADH"	1
+"565"	"NaP"	1
+"569"	"NDDs"	1
+"572"	"Neuromelanin"	1
+"573"	"neutral red"	1
+"575"	"NFoG"	1
+"576"	"NH4Cl"	1
+"577"	"nicotinamide"	1
+"580"	"Nissl"	1
+"582"	"Nitric Oxide"	1
+"583"	"nitrite"	1
+"585"	"NM-SN"	1
+"587"	"nocodazole"	1
+"588"	"noFOG"	1
+"589"	"noradrenaline"	1
+"592"	"NTRC 3531-0"	1
+"593"	"o-quinone"	1
+"594"	"O2"	1
+"596"	"okadaic acid"	1
+"598"	"olaparib"	1
+"599"	"oleic acid"	1
+"603"	"oxadiazole"	1
+"605"	"oxygen species"	1
+"607"	"palmitate"	1
+"609"	"Paraffin"	1
+"611"	"Paraquat"	1
+"612"	"Pb"	1
+"613"	"PB"	1
+"615"	"pentose phosphate"	1
+"621"	"pertechnetate"	1
+"624"	"phenol"	1
+"625"	"phenyl carbamothioate"	1
+"626"	"phenylalanine"	1
+"629"	"phosphatidylinositol 3-phosphate"	1
+"630"	"phosphatidylinositol 3,4,5-trisphosphate"	1
+"631"	"phosphatidylinositol 4,5-bisphosphate"	1
+"632"	"phosphatidylinositol polyphosphate"	1
+"633"	"phosphatidylinositol polyphosphates"	1
+"634"	"phosphatidylserine"	1
+"635"	"Phosphoamino acid"	1
+"636"	"phosphoglycerate"	1
+"640"	"Phosphosite"	1
+"641"	"Phosphotidylserine"	1
+"642"	"phosphoubiquitin"	1
+"644"	"PI3P"	1
+"648"	"PL"	1
+"649"	"PNU-282987"	1
+"651"	"poly(carboxybetaine-methacrylate)"	1
+"652"	"polyaniline"	1
+"653"	"polyethylene"	1
+"654"	"Polyglutamine"	1
+"656"	"polymer acid"	1
+"659"	"polyphenolic compound"	1
+"660"	"polyphenols"	1
+"661"	"Polyphenols"	1
+"663"	"Polyunsaturated fatty acids"	1
+"669"	"Prasinezumab"	1
+"670"	"pRBD"	1
+"671"	"PRGO"	1
+"674"	"prolines"	1
+"675"	"propeptide"	1
+"676"	"propionate"	1
+"677"	"PS"	1
+"678"	"pS-alpha-syn-"	1
+"681"	"psychosine"	1
+"682"	"pT72"	1
+"683"	"pTau181"	1
+"684"	"PUFA"	1
+"685"	"PUFAs"	1
+"687"	"puromycin"	1
+"688"	"pyrazine"	1
+"689"	"pyrazole"	1
+"690"	"pyrene"	1
+"691"	"pyroglutamate"	1
+"695"	"quinoid"	1
+"696"	"quinoline"	1
+"697"	"quinones"	1
+"698"	"R130"	1
+"699"	"RAB"	1
+"700"	"RAC"	1
+"704"	"reactive oxidative species"	1
+"706"	"Reactive oxygen species"	1
+"707"	"reserpine"	1
+"709"	"Resveratrol"	1
+"710"	"retinoic acid"	1
+"711"	"RI"	1
+"720"	"SB203580"	1
+"722"	"Schiff base"	1
+"726"	"Se"	1
+"728"	"Selegiline"	1
+"729"	"Selegine"	1
+"730"	"selenium"	1
+"731"	"Ser"	1
+"732"	"ser129"	1
+"734"	"Ser131"	1
+"735"	"Ser205"	1
+"743"	"Serine65"	1
+"744"	"serines"	1
+"748"	"Sialic acid"	1
+"752"	"SK-MEL-2"	1
+"753"	"SMBT"	1
+"754"	"SN4741"	1
+"755"	"sodium 3-[1-(phenylaminocarbonyl)-3, 4-tetrazolium]-bis(4-methoxy-6-nitro)benzenesulfonic acid	Chemical	-
+10818160	982	988	6-OHDA	Chemical	MESH:D016627
+10817894	418	425	glucose	Chemical	MESH:D005947
+10817894	427	430	FDG	Chemical	-
+10817894	628	631	FDG	Chemical	-
+10817582	497	503	6-OHDA	Chemical	MESH:D016627
+10817582	654	665	apomorphine	Chemical	MESH:D001058
+10817016	248	261	acetylcholine	Chemical	MESH:D000109
+10817016	323	327	GABA	Chemical	MESH:D005680
+10817016	329	338	glutamate	Chemical	MESH:D018698
+10817016	1532	1540	dopamine	Chemical	MESH:D004298
+10817016	1608	1616	dopamine	Chemical	MESH:D004298
+10817016	1892	1900	dopamine	Chemical	MESH:D004298
+10816186	114	124	ropinirole	Chemical	MESH:C046649
+10816186	128	136	levodopa	Chemical	MESH:D007980
+10816186	250	258	levodopa	Chemical	MESH:D007980
+10816186	264	272	dopamine	Chemical	MESH:D004298
+10816186	416	426	ropinirole	Chemical	MESH:C046649
+10816186	440	448	levodopa	Chemical	MESH:D007980
+10816186	639	647	levodopa	Chemical	MESH:D007980
+10816186	798	808	ropinirole	Chemical	MESH:C046649
+10816186	861	869	levodopa	Chemical	MESH:D007980
+10816186	935	945	ropinirole	Chemical	MESH:C046649
+10816186	999	1007	levodopa	Chemical	MESH:D007980
+10816186	1108	1118	ropinirole	Chemical	MESH:C046649
+10816186	1361	1369	levodopa	Chemical	MESH:D007980
+10816186	1430	1440	ropinirole	Chemical	MESH:C046649
+10816186	1489	1497	levodopa	Chemical	MESH:D007980
+10816186	1748	1758	ropinirole	Chemical	MESH:C046649
+10816186	1807	1815	levodopa	Chemical	MESH:D007980
+10816186	1917	1927	ropinirole	Chemical	MESH:C046649
+10816186	1950	1958	levodopa	Chemical	MESH:D007980
+10816186	2021	2029	levodopa	Chemical	MESH:D007980
+10816186	2206	2216	ropinirole	Chemical	MESH:C046649
+10816186	2249	2257	levodopa	Chemical	MESH:D007980
+10815149	0	8	Levodopa	Chemical	MESH:D007980
+10815140	28	39	pramipexole	Chemical	MESH:D000077487
+10815140	78	89	Pramipexole	Chemical	MESH:D000077487
+10815140	97	105	dopamine	Chemical	MESH:D004298
+10815140	385	396	pramipexole	Chemical	MESH:D000077487
+10815140	511	522	pramipexole	Chemical	MESH:D000077487
+10815140	734	745	pramipexole	Chemical	MESH:D000077487
+10815140	1460	1471	pramipexole	Chemical	MESH:D000077487
+10813785	643	651	dopamine	Chemical	MESH:D004298
+10813785	730	745	oligonucleotide	Chemical	MESH:D009841
+10813785	775	781	S-dATP	Chemical	MESH:C026600
+10813785	845	853	tyrosine	Chemical	MESH:D014443
+10813785	1293	1301	dopamine	Chemical	MESH:D004298
+10813785	1504	1512	SCH23390	Chemical	MESH:C534628
+10813785	1524	1532	mazindol	Chemical	MESH:D008454
+10813785	1762	1770	dopamine	Chemical	MESH:D004298
+10813785	1959	1967	dopamine	Chemical	MESH:D004298
+10811894	24	51	flavin adenine dinucleotide	Chemical	MESH:D005182
+10811894	324	330	oxygen	Chemical	MESH:D010100
+10811894	402	429	flavin adenine dinucleotide	Chemical	MESH:D005182
+10811894	431	434	FAD	Chemical	MESH:D005182
+10811894	519	535	lauryl maltoside	Chemical	MESH:C040358
+10811894	563	566	His	Chemical	MESH:D006639
+10811894	710	713	FAD	Chemical	MESH:D005182
+10811894	815	818	PAS	Chemical	MESH:D011478
+10811894	844	847	FAD	Chemical	MESH:D005182
+10811894	925	931	serine	Chemical	MESH:D012694
+10811894	1013	1016	FAD	Chemical	MESH:D005182
+10811894	1182	1185	FAD	Chemical	MESH:D005182
+10811894	1355	1358	FAD	Chemical	MESH:D005182
+10811894	1499	1502	FAD	Chemical	MESH:D005182
+10811688	0	8	Dopamine	Chemical	MESH:D004298
+10811394	1368	1376	dopamine	Chemical	MESH:D004298
+10811394	1399	1410	kainic acid	Chemical	MESH:D007608
+10811394	1478	1495	6-hydroxydopamine	Chemical	MESH:D016627
+10811392	236	244	dopamine	Chemical	MESH:D004298
+10811392	686	708	excitatory amino acids	Chemical	MESH:D018846
+10811392	1183	1190	calcium	Chemical	MESH:D002118
+10811392	1437	1444	Calcium	Chemical	MESH:D002118
+10811392	1473	1483	nimodipine	Chemical	MESH:D009553
+10811392	1488	1499	flunarizine	Chemical	MESH:D005444
+10811392	1642	1651	lazaroids	Chemical	-
+10811392	1708	1716	dopamine	Chemical	MESH:D004298
+10809487	354	362	formalin	Chemical	MESH:D005557
+10809409	0	9	Tolcapone	Chemical	MESH:D000077867
+10809409	45	53	levodopa	Chemical	MESH:D007980
+10809409	118	126	levodopa	Chemical	MESH:D007980
+10809409	184	193	tolcapone	Chemical	MESH:D000077867
+10809409	308	316	levodopa	Chemical	MESH:D007980
+10809409	356	365	tolcapone	Chemical	MESH:D000077867
+10809409	476	484	levodopa	Chemical	MESH:D007980
+10809409	507	516	tolcapone	Chemical	MESH:D000077867
+10809409	629	638	tolcapone	Chemical	MESH:D000077867
+10809408	458	466	levodopa	Chemical	MESH:D007980
+10809406	11	22	apomorphine	Chemical	MESH:D001058
+10809406	81	92	apomorphine	Chemical	MESH:D001058
+10809406	503	514	apomorphine	Chemical	MESH:D001058
+10809406	664	675	apomorphine	Chemical	MESH:D001058
+10809406	774	785	apomorphine	Chemical	MESH:D001058
+10809406	868	879	apomorphine	Chemical	MESH:D001058
+10809406	973	984	apomorphine	Chemical	MESH:D001058
+10809406	1075	1086	apomorphine	Chemical	MESH:D001058
+10809406	1268	1279	apomorphine	Chemical	MESH:D001058
+10809406	1310	1321	apomorphine	Chemical	MESH:D001058
+10809406	1515	1526	apomorphine	Chemical	MESH:D001058
+10809406	1550	1558	dopamine	Chemical	MESH:D004298
+10809403	34	42	dopamine	Chemical	MESH:D004298
+10809403	115	127	6-fluorodopa	Chemical	MESH:C043437
+10809403	338	346	levodopa	Chemical	MESH:D007980
+10809403	710	718	levodopa	Chemical	MESH:D007980
+10809403	1659	1667	dopamine	Chemical	MESH:D004298
+10809402	32	44	coenzyme Q10	Chemical	MESH:C024989
+10809402	101	113	coenzyme Q10	Chemical	MESH:C024989
+10809402	115	120	CoQ10	Chemical	MESH:C024989
+10809402	284	289	CoQ10	Chemical	MESH:C024989
+10809402	406	421	reactive oxygen	Chemical	-
+10809402	438	455	hydrogen peroxide	Chemical	MESH:D006861
+10809402	460	470	superoxide	Chemical	MESH:D013481
+10809402	711	716	CoQ10	Chemical	MESH:C024989
+10809402	809	814	CoQ10	Chemical	MESH:C024989
+10809402	960	965	CoQ10	Chemical	MESH:C024989
+10809402	988	993	CoQ10	Chemical	MESH:C024989
+10809402	1006	1011	CoQ10	Chemical	MESH:C024989
+10809402	1077	1082	CoQ10	Chemical	MESH:C024989
+10809402	1156	1161	CoQ10	Chemical	MESH:C024989
+10809402	1201	1207	L-DOPA	Chemical	MESH:D007980
+10809402	1244	1254	selegiline	Chemical	MESH:D012642
+10809402	1284	1289	CoQ10	Chemical	MESH:C024989
+10809402	1340	1350	selegiline	Chemical	MESH:D012642
+10809402	1511	1516	CoQ10	Chemical	MESH:C024989
+10805800	0	22	D-beta-hydroxybutyrate	Chemical	-
+10805800	94	100	heroin	Chemical	MESH:D003932
+10805800	110	137	1-methyl-4-phenylpyridinium	Chemical	MESH:D015655
+10805800	139	142	MPP	Chemical	MESH:C044202
+10805800	560	582	d-beta-hydroxybutyrate	Chemical	-
+10805800	735	741	ketone	Chemical	MESH:D007659
+10805800	841	847	ketone	Chemical	MESH:D007659
+10805800	1036	1042	ketone	Chemical	MESH:D007659
+10805339	0	8	Levodopa	Chemical	MESH:D007980
+10805339	82	90	Levodopa	Chemical	MESH:D007980
+10805339	349	357	levodopa	Chemical	MESH:D007980
+10805339	400	408	levodopa	Chemical	MESH:D007980
+10805339	610	618	levodopa	Chemical	MESH:D007980
+10805339	820	828	levodopa	Chemical	MESH:D007980
+10805339	1191	1199	levodopa	Chemical	MESH:D007980
+10805334	661	664	NAC	Chemical	-
+10805334	723	731	dopamine	Chemical	MESH:D004298
+10805334	879	882	NAC	Chemical	-
+10805334	926	929	NAC	Chemical	-
+10805334	1053	1056	NAC	Chemical	-
+10805334	1169	1172	NAC	Chemical	-
+10805334	1290	1293	NAC	Chemical	-
+10805091	702	712	Lipofuscin	Chemical	MESH:D008062
+10805091	717	729	neuromelanin	Chemical	MESH:C014121
+10803800	58	67	tolcapone	Chemical	MESH:D000077867
+10803800	82	90	levodopa	Chemical	MESH:D007980
+10803800	167	176	tolcapone	Chemical	MESH:D000077867
+10803800	249	257	levodopa	Chemical	MESH:D007980
+10803800	280	288	levodopa	Chemical	MESH:D007980
+10803800	407	416	tolcapone	Chemical	MESH:D000077867
+10803800	462	471	Tolcapone	Chemical	MESH:D000077867
+10803800	840	848	levodopa	Chemical	MESH:D007980
+10803800	853	867	3-O-methyldopa	Chemical	MESH:C008404
+10803800	869	874	3-OMD	Chemical	MESH:C008404
+10803800	897	905	levodopa	Chemical	MESH:D007980
+10803800	938	947	tolcapone	Chemical	MESH:D000077867
+10803800	1040	1048	levodopa	Chemical	MESH:D007980
+10803800	1362	1373	oftolcapone	Chemical	-
+10803800	1419	1427	levodopa	Chemical	MESH:D007980
+10803800	1506	1514	levodopa	Chemical	MESH:D007980
+10803797	14	24	amantadine	Chemical	MESH:D000547
+10803797	28	36	levodopa	Chemical	MESH:D007980
+10803797	212	222	amantadine	Chemical	MESH:D000547
+10803797	241	249	levodopa	Chemical	MESH:D007980
+10803797	355	365	amantadine	Chemical	MESH:D000547
+10803797	516	526	amantadine	Chemical	MESH:D000547
+10803797	535	543	levodopa	Chemical	MESH:D007980
+10802810	24	28	MIBG	Chemical	MESH:D019797
+10800878	51	62	perindopril	Chemical	MESH:D020913
+10800878	309	320	perindopril	Chemical	MESH:D020913
+10800878	377	385	dopamine	Chemical	MESH:D004298
+10800878	420	438	angiotensin type 1	Chemical	-
+10800878	799	810	perindopril	Chemical	MESH:D020913
+10800878	927	938	perindopril	Chemical	MESH:D020913
+10800878	995	1001	L-dopa	Chemical	MESH:D007980
+10800878	1182	1193	Perindopril	Chemical	MESH:D020913
+10800878	1343	1354	perindopril	Chemical	MESH:D020913
+10797828	1052	1061	palladium	Chemical	MESH:D010165
+10796801	0	8	Lisuride	Chemical	MESH:D008090
+10796801	13	21	levodopa	Chemical	MESH:D007980
+10796801	127	135	lisuride	Chemical	MESH:D008090
+10796801	220	228	levodopa	Chemical	MESH:D007980
+10796801	665	673	lisuride	Chemical	MESH:D008090
+10796801	792	800	levodopa	Chemical	MESH:D007980
+10796801	990	998	lisuride	Chemical	MESH:D008090
+10796801	1213	1221	lisuride	Chemical	MESH:D008090
+10796800	0	8	Lisuride	Chemical	MESH:D008090
+10796800	16	29	bromocriptine	Chemical	MESH:D001971
+10796800	34	42	levodopa	Chemical	MESH:D007980
+10796800	147	155	lisuride	Chemical	MESH:D008090
+10796800	171	184	bromocriptine	Chemical	MESH:D001971
+10796800	246	254	levodopa	Chemical	MESH:D007980
+10796800	721	729	lisuride	Chemical	MESH:D008090
+10796800	737	750	bromocriptine	Chemical	MESH:D001971
+10796800	854	862	levodopa	Chemical	MESH:D007980
+10796800	1076	1084	lisuride	Chemical	MESH:D008090
+10796800	1090	1103	bromocriptine	Chemical	MESH:D001971
+10796800	1152	1160	lisuride	Chemical	MESH:D008090
+10796800	1165	1178	bromocriptine	Chemical	MESH:D001971
+10796800	1500	1508	Lisuride	Chemical	MESH:D008090
+10796800	1513	1526	bromocriptine	Chemical	MESH:D001971
+10796800	1892	1900	lisuride	Chemical	MESH:D008090
+10796800	1915	1928	bromocriptine	Chemical	MESH:D001971
+10796755	0	13	Bromocriptine	Chemical	MESH:D001971
+10796755	18	26	levodopa	Chemical	MESH:D007980
+10796755	136	149	bromocriptine	Chemical	MESH:D001971
+10796705	0	9	Pergolide	Chemical	MESH:D010479
+10796705	17	30	bromocriptine	Chemical	MESH:D001971
+10796705	35	43	levodopa	Chemical	MESH:D007980
+10796705	154	163	pergolide	Chemical	MESH:D010479
+10796705	179	192	bromocriptine	Chemical	MESH:D001971
+10796705	254	262	levodopa	Chemical	MESH:D007980
+10796705	700	709	pergolide	Chemical	MESH:D010479
+10796705	717	730	bromocriptine	Chemical	MESH:D001971
+10796705	834	842	levodopa	Chemical	MESH:D007980
+10796705	1057	1066	Pergolide	Chemical	MESH:D010479
+10796705	1083	1096	bromocriptine	Chemical	MESH:D001971
+10796705	1269	1278	pergolide	Chemical	MESH:D010479
+10796705	1284	1297	bromocriptine	Chemical	MESH:D001971
+10796705	1467	1475	levodopa	Chemical	MESH:D007980
+10796705	1554	1563	pergolide	Chemical	MESH:D010479
+10796705	1579	1592	bromocriptine	Chemical	MESH:D001971
+10796705	1669	1677	levodopa	Chemical	MESH:D007980
+10796705	1722	1730	Levodopa	Chemical	MESH:D007980
+10796705	1850	1859	pergolide	Chemical	MESH:D010479
+10796705	1933	1946	bromocriptine	Chemical	MESH:D001971
+10796704	0	9	Pergolide	Chemical	MESH:D010479
+10796704	14	22	levodopa	Chemical	MESH:D007980
+10796704	127	136	pergolide	Chemical	MESH:D010479
+10796704	233	241	levodopa	Chemical	MESH:D007980
+10796704	627	636	pergolide	Chemical	MESH:D010479
+10796704	755	763	levodopa	Chemical	MESH:D007980
+10796704	961	969	levodopa	Chemical	MESH:D007980
+10796704	1330	1339	pergolide	Chemical	MESH:D010479
+10796704	1437	1446	pergolide	Chemical	MESH:D010479
+10796704	1598	1606	levodopa	Chemical	MESH:D007980
+10796704	1618	1626	Levodopa	Chemical	MESH:D007980
+10796704	1668	1677	pergolide	Chemical	MESH:D010479
+10796704	1708	1717	Pergolide	Chemical	MESH:D010479
+10796704	2006	2015	pergolide	Chemical	MESH:D010479
+10796704	2104	2113	pergolide	Chemical	MESH:D010479
+10796704	2200	2209	pergolide	Chemical	MESH:D010479
+10796704	2292	2301	pergolide	Chemical	MESH:D010479
+10796704	2418	2426	levodopa	Chemical	MESH:D007980
+10796704	2527	2536	pergolide	Chemical	MESH:D010479
+10796704	2552	2560	dopamine	Chemical	MESH:D004298
+10795891	2295	2299	DOPA	Chemical	MESH:D004295
+10794706	18	38	N-methyl-D-aspartate	Chemical	MESH:D016202
+10794706	61	76	benzimidazalone	Chemical	-
+10794706	81	90	hydantoin	Chemical	MESH:D006827
+10794706	94	100	phenol	Chemical	MESH:D019800
+10794706	203	213	ifenprodil	Chemical	MESH:C010739
+10794706	225	230	CP101	Chemical	-
+10794706	360	366	phenol	Chemical	MESH:D019800
+10794706	385	400	benzimidazalone	Chemical	-
+10794706	427	433	carbon	Chemical	MESH:D002244
+10794706	443	461	4-benzylpiperidine	Chemical	-
+10794706	539	545	carbon	Chemical	MESH:D002244
+10794706	614	620	phenol	Chemical	MESH:D019800
+10794706	633	642	hydantoin	Chemical	MESH:D006827
+10794706	682	685	11a	Chemical	MESH:C027406
+10794706	794	800	L-DOPA	Chemical	MESH:D007980
+10794706	844	861	6-hydroxydopamine	Chemical	MESH:D016627
+10794670	62	69	calcium	Chemical	MESH:D002118
+10794670	689	691	Cd	Chemical	MESH:D002104
+10794670	767	769	Cd	Chemical	MESH:D002104
+10794670	860	862	Cd	Chemical	MESH:D002104
+10794670	955	957	Cd	Chemical	MESH:D002104
+10794670	983	992	histidine	Chemical	MESH:D006639
+10794670	996	1004	cysteine	Chemical	MESH:D003545
+10794670	1038	1046	cysteine	Chemical	MESH:D003545
+10794670	1055	1102	2-(trimethylammonium)ethyl methanethiosulfonate	Chemical	MESH:C109154
+10794670	1210	1219	histidine	Chemical	MESH:D006639
+10794588	12	16	iron	Chemical	MESH:D007501
+10794588	42	86	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	Chemical	MESH:D015632
+10794588	492	496	iron	Chemical	MESH:D007501
+10794303	936	946	fluorodopa	Chemical	MESH:C043437
+10793289	505	539	Dulbeccos modified Eagles medium	Chemical	-
+10793289	541	545	DMEM	Chemical	-
+10793289	559	572	Chees medium"	1
+"756"	"sodium acetate"	1
+"758"	"sodium dodecyl sulfate"	1
+"759"	"sodium propionate"	1
+"761"	"Sodium selenate"	1
+"763"	"SPH"	1
+"765"	"Sphingolipid"	1
+"767"	"Sphingolipids"	1
+"768"	"sphingomyelin"	1
+"770"	"Staurosporine"	1
+"771"	"steroid"	1
+"773"	"Suc-Leu-Leu-Val-Tyr-AMC"	1
+"774"	"Suc-LLVY-AMC"	1
+"775"	"succinate"	1
+"778"	"superoxide"	1
+"781"	"Tau"	1
+"784"	"TBS"	1
+"785"	"Tc-99m"	1
+"786"	"Tc-99m ethyl cysteinate"	1
+"787"	"TCA"	1
+"788"	"terephthalate"	1
+"789"	"Tetrabutylphosphonium hydroxide"	1
+"790"	"tetramethylrhodamine methyl ester"	1
+"791"	"TG"	1
+"792"	"TH+"	1
+"793"	"thiazolium"	1
+"794"	"thio-S"	1
+"795"	"thioflavin"	1
+"796"	"thioflavin-S"	1
+"797"	"thioflavin-T"	1
+"800"	"thioflavine"	1
+"801"	"thioflavine S"	1
+"802"	"thiol"	1
+"803"	"Thr"	1
+"804"	"threonine"	1
+"807"	"Tilavonemab"	1
+"808"	"TMDs"	1
+"809"	"TMRM"	1
+"810"	"tocotrienol"	1
+"812"	"tolcapone"	1
+"813"	"Toluidine blue"	1
+"814"	"Tomatidine"	1
+"815"	"transition metal dichalcogenides"	1
+"816"	"trehalose"	1
+"817"	"Trehalose"	1
+"818"	"triacylglycerol"	1
+"819"	"triglyceride"	1
+"820"	"trihexyphenidyl"	1
+"821"	"triterpenoid"	1
+"822"	"Triton-X"	1
+"823"	"TRODAT"	1
+"824"	"TT"	1
+"825"	"TVP-1022"	1
+"827"	"ubiquinol"	1
+"828"	"Ubiquinone"	1
+"831"	"Uric Acid"	1
+"832"	"V1615"	1
+"833"	"valproic acid"	1
+"836"	"vitamin B6"	1
+"837"	"Vitamin B6"	1
+"839"	"Vitamin D"	1
+"840"	"vitamin K2"	1
+"841"	"Vitamin K2"	1
+"843"	"WA"	1
+"847"	"xenobiotica"	1
