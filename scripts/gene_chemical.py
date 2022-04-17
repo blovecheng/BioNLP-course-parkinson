@@ -1,9 +1,12 @@
+#author:陈佳雨
+#time:2022/04/13
+
 import pandas as pd   #导入pandas库
 
 with open('C:/Users/DELL/Desktop/BioNLP/data/abstract.txt', 'r', encoding = 'UTF-8') as file:
     abstract = file.read()   #读取abstract
 
-gene = pd.read_csv('C:/Users/DELL/Desktop/BioNLP/data/gene.txt', delimiter = "\t", header = None)   #读取基因实体文件
+gene = pd.read_csv('C:/Users/DELL/Desktop/BioNLP/data/geneQ10.txt', delimiter = "\t", header = None)   #读取基因实体文件
 chemical = pd.read_csv('C:/Users/DELL/Desktop/BioNLP/data/chemical.txt', delimiter = "\t", quoting = 3, header = None)   #读取化学分子实体文件
 
 sentences = list()
