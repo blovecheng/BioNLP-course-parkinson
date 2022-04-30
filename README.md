@@ -49,7 +49,7 @@ grep -E "\bSpecies\b" entity.txt  > species.txt
 部分结果已上传到/data文件夹下
 
 ## 4、GO和KEGG富集分析
-将基因实体文件中最后一列的ID号导入到DAVID数据库进行富集分析，导出的文件GO.txt和KEGG.txt已上传到/data文件夹下。在RStudio上编写代码完成可视化展示，对于GO富集结果分别取biological process、cellular component、molecule function富集基因数最多的前10项作柱状图并用不同颜色区分，结果存在/data/GO.jpeg中；对于KEGG富集结果取富集基因数最多的前20项作气泡图展示它的counts数以及可信度(pvalue)，结果存在/data/KEGG.jpeg中。
+将基因实体文件中最后一列的ID号导入到DAVID数据库进行富集分析，导出的文件GO.txt和KEGG.txt已上传到/data文件夹下。在RStudio上编写代码完成可视化展示，对于GO富集结果分别取biological process、cellular component、molecule function富集基因数最多的前10项作柱状图并用不同颜色区分；对于KEGG富集结果取富集基因数最多的前20项作气泡图展示它的counts数以及可信度(pvalue)。最后使用RStudio的ggarange函数将两张图合并，结果存在/data/GO_KEGG.jpeg中。
 
 ## 5、计算词频并绘制词云图
 #参考代码来源：https://github.com/kiekie233/BioNLP-course/blob/main/script/Get_entity_freq.R
@@ -62,4 +62,3 @@ grep -E "\bSpecies\b" entity.txt  > species.txt
 提取与出现次数最多的部分基因相关的突变和疾病并分析它们在帕金森疾病的发病机制中可能存在的作用与影响。
 
 ## 7、基因与化合物共句分析
-通过Python的pd包实现表格式的读取与输出，分析基因和化合物的共句关系找出与与出现次数最多的部分基因共句的化合物，并分析化合物对帕金森疾病的影响作用，找到潜在的治疗帕金森病的方法。
