@@ -1,0 +1,2175 @@
+gene	chemical	count
+COMT	levodopa	176
+alpha-synuclein	dopamine	119
+dopamine transporter	dopamine	103
+MAO-B	levodopa	94
+alpha-synuclein	iron	70
+MAO-B	dopamine	68
+SNCA	MPTP	59
+COMT	entacapone	58
+DRD2	dopamine	49
+COMT	dopamine	48
+alpha-synuclein	MPTP	45
+COMT	tolcapone	43
+alpha-synuclein	lipid	41
+dopamine transporter	levodopa	39
+alpha-synuclein	rotenone	37
+alpha-synuclein	DA	36
+dopamine transporter	DA	34
+MAO-B	safinamide	32
+alpha-synuclein	rotenone	29
+MAO-B	selegiline	28
+alpha-synuclein	mercury	27
+alpha-synuclein	6-OHDA	26
+SNCA	dopamine	25
+alpha-synuclein	6-OHDA	25
+BDNF	1,25(OH)2D3	24
+alpha-synuclein	dopamine	24
+alpha-synuclein	lipids	23
+SNCA	DA	23
+dopamine transporter	beta-CIT	23
+alpha-synuclein	metal	22
+alpha-synuclein	serine	22
+alpha-synuclein	levodopa	21
+GDNF	6-OHDA	19
+GDNF	DA	19
+dopamine transporter	L-DOPA	18
+MAO-B	MPTP	18
+SNCA	PQ	17
+COMT	L-DOPA	17
+COMT	Levodopa	17
+FOG	levodopa	16
+COMT	carbidopa	16
+COMT	Entacapone	16
+COMT	L-Dopa	16
+alpha-synuclein	DA	16
+GDNF	dopamine	16
+GDNF	dopamine	16
+SNCA	iron	15
+MAO-B	iron	15
+tyrosine hydroxylase	dopamine	15
+DRD2	levodopa	15
+tau	digoxin	14
+GBA	uric acid	14
+MAO-B	L-DOPA	14
+AKT	MPTP	14
+LRRK2	dopamine	13
+dopamine transporter	FP-CIT	13
+COMT	apomorphine	13
+DRD2	pramipexole	13
+alpha-synuclein	calcium	12
+alpha-synuclein	L-DOPA	12
+alpha-synuclein	lactate	12
+alpha-synuclein	oxygen	12
+LRRK2	calcium	12
+dopamine transporter	MPTP	12
+dopamine transporter	water	12
+PINK1	PQ	12
+GBA	glucosylceramide	12
+MAO-B	amantadine	12
+MAO-B	Levodopa	12
+COMT	iron	12
+alpha-synuclein	ROS	11
+alpha-synuclein	tyrosine	11
+SNCA	rotenone	11
+tau	MPTP	11
+PINK1	calcium	11
+GBA	ambroxol	11
+GBA	lipid	11
+MAO-B	rasagiline	11
+alpha-beta	raloxifene	11
+tyrosine hydroxylase	rotenone	11
+AKT	lactate	11
+alpha-synuclein	cholesterol	10
+LRRK2	uric acid	10
+SNCA	DMTHB	10
+dopamine transporter	FDOPA	10
+dopamine transporter	pergolide	10
+dopamine transporter	pramipexole	10
+COMT	amantadine	10
+COMT	Hcy	10
+TNF-alpha	MPP+	10
+Nrf2	6-OHDA	10
+Nrf2	Ramelteon	10
+alpha-synuclein	6-hydroxydopamine	9
+alpha-synuclein	mannitol	9
+SNCA	6-OHDA	9
+dopamine transporter	uric acid	9
+PINK1	DA	9
+PINK1	ghrelin	9
+PINK1	levodopa	9
+GBA	dopamine	9
+MAO-B	Safinamide	9
+COMT	L-dopa	9
+alpha-synuclein	NAR	9
+tyrosine hydroxylase	6-OHDA	9
+alpha-synuclein	ATP	8
+alpha-synuclein	Cu	8
+alpha-synuclein	Dopamine	8
+alpha-synuclein	glutamate	8
+alpha-synuclein	Iron	8
+alpha-synuclein	Neu5ac	8
+alpha-synuclein	reactive oxygen species	8
+alpha-synuclein	Rotenone	8
+SNCA	chloroquine	8
+dopamine transporter	18F-FDG	8
+dopamine transporter	CFT	8
+dopamine transporter	resveratrol	8
+DJ1	levodopa	8
+MAO-B	lazabemide	8
+alpha-synuclein	noscapine	8
+GDNF	6-hydroxydopamine	8
+tyrosine hydroxylase	DA	8
+Nrf2	ACDT	8
+Nrf2	GSH	8
+Nrf2	resveratrol	8
+AKT	propionate	8
+AKT	vildagliptin	8
+VPS35	levodopa	8
+DRD2	apomorphine	8
+DRD2	cabergoline	8
+DRD2	Pramipexole	8
+Syn	Neu5ac	8
+alpha-synuclein	Ca2+	7
+alpha-synuclein	copper	7
+alpha-synuclein	DMC	7
+alpha-synuclein	MPP+	7
+alpha-synuclein	norepinephrine	7
+LRRK2	6-OHDA	7
+LRRK2	glucose	7
+LRRK2	hydrogen	7
+LRRK2	levodopa	7
+SNCA	Ca2+	7
+SNCA	PFF	7
+SNCA	piperine	7
+SNCA	ROS	7
+FOG	HoloLens	7
+PINK1	6-OHDA	7
+PINK1	iron	7
+DJ1	6-OHDA	7
+MAO-B	baicalein	7
+MAO-B	DA	7
+MAO-B	deprenyl	7
+COMT	folate	7
+COMT	vitamin B12	7
+alpha-synuclein	6-hydroxydopamine	7
+alpha-synuclein	Val	7
+GDNF	amphetamine	7
+DRD2	11C	7
+DRD2	ropinirole	7
+alpha-synuclein	Brazilin	6
+alpha-synuclein	doxycycline	6
+alpha-synuclein	GlcCer	6
+alpha-synuclein	metformin	6
+alpha-synuclein	NAb-alpha-Syn	6
+alpha-synuclein	PQQ	6
+alpha-synuclein	queuine	6
+alpha-synuclein	sirolimus	6
+LRRK2	rotenone	6
+SNCA	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	6
+SNCA	lycorine	6
+SNCA	perampanel	6
+tau	aluminium	6
+tau	peptides	6
+tau	queuine	6
+tau	rasagiline	6
+dopamine transporter	123I-ioflupane	6
+dopamine transporter	18F-FP-CIT	6
+dopamine transporter	iron	6
+dopamine transporter	MIBG	6
+PINK1	GlcCer	6
+GBA	Ambroxol	6
+GBA	GlcCer	6
+GBA	lipids	6
+MAO-B	Dopamine	6
+MAO-B	naringenin	6
+MAO-B	Selegiline	6
+COMT	Dopamine	6
+COMT	LECIG	6
+COMT	opicapone	6
+PRKN	dopamine	6
+PRKN	H2O2	6
+PRKN	levodopa	6
+LRRK2	rotenone	6
+alpha-synuclein	adenosine	6
+alpha-synuclein	CPA	6
+alpha-synuclein	LPS	6
+alpha-synuclein	PQ	6
+alpha-synuclein	ROS	6
+alpha-synuclein	serine	6
+alpha-beta	Brazilin	6
+tyrosine hydroxylase	LPS	6
+AKT	MPP+	6
+VPS35	dopamine	6
+Syn	dopamine	6
+alpha-synuclein	anthocyanin	5
+alpha-synuclein	calycosin	5
+alpha-synuclein	chloroquine	5
+alpha-synuclein	EA	5
+alpha-synuclein	Fe	5
+alpha-synuclein	hesperidin	5
+alpha-synuclein	LPS	5
+alpha-synuclein	Mercury	5
+alpha-synuclein	MIBG	5
+alpha-synuclein	paraquat	5
+alpha-synuclein	phospholipids	5
+alpha-synuclein	polyphenol	5
+alpha-synuclein	ROF	5
+alpha-synuclein	silver	5
+alpha-synuclein	ThT	5
+alpha-synuclein	water	5
+alpha-synuclein	Zn	5
+LRRK2	MeHg	5
+SNCA	anthocyanin	5
+SNCA	AZD3759	5
+SNCA	NBP	5
+SNCA	tyrosine	5
+FOG	iTBS	5
+tau	gosuranemab	5
+tau	L-DOPA	5
+tau	ropinirole	5
+dopamine transporter	11C-CFT	5
+dopamine transporter	Dopamine	5
+dopamine transporter	IPT	5
+dopamine transporter	L-dopa	5
+dopamine transporter	L-selegiline	5
+dopamine transporter	Levodopa	5
+PINK1	dopamine	5
+PINK1	MPTP	5
+GBA	ceramide	5
+GBA	levodopa	5
+MAO-B	zonisamide	5
+COMT	3-OMD	5
+COMT	levadopa	5
+COMT	OPC	5
+COMT	Sinemet	5
+LRRK2	dopamine	5
+alpha-synuclein	DA-CH5	5
+alpha-synuclein	DPCPX	5
+alpha-synuclein	lipid	5
+alpha-synuclein	PFF	5
+alpha-synuclein	quercetin	5
+alpha-synuclein	venlafaxine	5
+alpha-beta	Mangiferin	5
+GDNF	MPTP	5
+ET	FP-CIT	5
+TNF-alpha	dopamine	5
+TNF-alpha	LPS	5
+TNF-alpha	Melatonin	5
+Nrf2	quercetin	5
+parkin	Ca2+	5
+AKT	6-OHDA	5
+AKT	DA-CH5	5
+AKT	rotenone	5
+DRD2	Dopamine	5
+alpha-synuclein	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	4
+alpha-synuclein	aluminum	4
+alpha-synuclein	ANS	4
+alpha-synuclein	catecholamines	4
+alpha-synuclein	Cu2+	4
+alpha-synuclein	fatty acid	4
+alpha-synuclein	glucosylceramide	4
+alpha-synuclein	L-Dopa	4
+alpha-synuclein	Levodopa	4
+alpha-synuclein	lipopolysaccharide	4
+alpha-synuclein	lysine	4
+alpha-synuclein	melanin	4
+alpha-synuclein	memantine	4
+alpha-synuclein	methionine	4
+alpha-synuclein	MG132	4
+alpha-synuclein	nAbs	4
+alpha-synuclein	nifene	4
+alpha-synuclein	nitrogen	4
+alpha-synuclein	oligonucleotide	4
+alpha-synuclein	PFF	4
+alpha-synuclein	phospholipid	4
+alpha-synuclein	proline	4
+alpha-synuclein	sphingolipids	4
+alpha-synuclein	STL-101	4
+alpha-synuclein	vitamin D	4
+LRRK2	ATP	4
+LRRK2	Indazole	4
+SNCA	calcium	4
+SNCA	catecholamine	4
+SNCA	MEs	4
+SNCA	MG132	4
+SNCA	rapamycin	4
+SNCA	serine	4
+FOG	WMH	4
+tau	dopamine	4
+tau	levodopa	4
+tau	oxygen	4
+tau	PI-2620	4
+tau	sodium selenate	4
+tau	STL-101	4
+tau	tilavonemab	4
+dopamine transporter	11C	4
+dopamine transporter	123I-FP-CIT	4
+dopamine transporter	6-OHDA	4
+dopamine transporter	alcohol	4
+dopamine transporter	glutamate	4
+dopamine transporter	L-dopa/carbidopa	4
+dopamine transporter	neuromelanin	4
+dopamine transporter	WMH	4
+PINK1	rotenone	4
+PINK1	staurosporine	4
+GBA	LTI-291	4
+GBA	venglustat	4
+MAO-B	apomorphine	4
+MAO-B	bromocriptine	4
+MAO-B	carbidopa	4
+MAO-B	glutamate	4
+MAO-B	Istradefylline	4
+MAO-B	ROS	4
+COMT	3-O-methyldopa	4
+COMT	Istradefylline	4
+LRRK2	pyrrolopyrimidines	4
+BDNF	Calcium	4
+BDNF	MPP+	4
+BDNF	phosphate	4
+BDNF	UAG	4
+alpha-synuclein	1-aminoindan	4
+alpha-synuclein	2-aminoindan	4
+alpha-synuclein	dapagliflozin	4
+alpha-synuclein	Dapagliflozin	4
+alpha-synuclein	DM	4
+alpha-synuclein	DOPAL	4
+alpha-synuclein	nicotine	4
+alpha-synuclein	PPX	4
+alpha-synuclein	reserpine	4
+alpha-beta	cholesterol	4
+alpha-beta	mangiferin	4
+GDNF	6-OHDA	4
+GDNF	dapagliflozin	4
+GDNF	Dapagliflozin	4
+tyrosine hydroxylase	DM	4
+tyrosine hydroxylase	nicotine	4
+tyrosine hydroxylase	salubrinal	4
+parkin	DA	4
+AKT	capivasertib	4
+ATP13A2	levodopa	4
+PINK-1	DA	4
+DRD2	6-OHDA	4
+DRD2	IBZM	4
+DRD2	L-Dopa	4
+alpha-synuclein	[18F]nifene	3
+alpha-synuclein	1-methyl-4-phenylpyridine	3
+alpha-synuclein	5,6-indolequinone	3
+alpha-synuclein	Ambroxol	3
+alpha-synuclein	bisquinoline	3
+alpha-synuclein	carbidopa	3
+alpha-synuclein	carbon	3
+alpha-synuclein	catecholamine	3
+alpha-synuclein	CLBs	3
+alpha-synuclein	CoQ10	3
+alpha-synuclein	CTAB	3
+alpha-synuclein	cytosine-phosphate-guanine	3
+alpha-synuclein	daidzein	3
+alpha-synuclein	disulfide	3
+alpha-synuclein	doxorubicin	3
+alpha-synuclein	EGCG	3
+alpha-synuclein	FDOPA	3
+alpha-synuclein	FMN	3
+alpha-synuclein	glucose	3
+alpha-synuclein	hydrogen peroxide	3
+alpha-synuclein	lipid bilayer	3
+alpha-synuclein	Mannitol	3
+alpha-synuclein	Metal	3
+alpha-synuclein	miR-101-3p	3
+alpha-synuclein	neuromelanin	3
+alpha-synuclein	nitric oxide	3
+alpha-synuclein	phosphorus	3
+alpha-synuclein	PIP2	3
+alpha-synuclein	prasinezumab	3
+alpha-synuclein	Queuine	3
+alpha-synuclein	rasagiline	3
+alpha-synuclein	resveratrol	3
+alpha-synuclein	scopoletin	3
+alpha-synuclein	selegiline	3
+alpha-synuclein	Serine	3
+alpha-synuclein	Sirolimus	3
+alpha-synuclein	T3	3
+alpha-synuclein	tannic acid	3
+alpha-synuclein	VitB12	3
+LRRK2	arginine	3
+LRRK2	EB-42168	3
+LRRK2	iron	3
+LRRK2	Leucine	3
+LRRK2	LY2019	3
+LRRK2	reactive oxygen species	3
+LRRK2	ROS	3
+LRRK2	Rotenone	3
+SNCA	ASO4	3
+SNCA	bisquinoline	3
+SNCA	Iron	3
+SNCA	Lycorine	3
+SNCA	MPP+	3
+SNCA	N-acetyl cysteine	3
+SNCA	NaB	3
+SNCA	oligonucleotide	3
+SNCA	OTA	3
+SNCA	paraquat	3
+FOG	L-Dopa	3
+tau	Aluminium	3
+tau	aluminum	3
+tau	Ambroxol	3
+tau	MIBG	3
+tau	Queuine	3
+tau	Rasagiline	3
+dopamine transporter	[I-123]IPT	3
+dopamine transporter	CDTadj	3
+dopamine transporter	glutathione	3
+dopamine transporter	LCIG	3
+dopamine transporter	NSDD	3
+dopamine transporter	PE2I	3
+dopamine transporter	prasinezumab	3
+PINK1	levodopa/benserazide	3
+PINK1	paraquat	3
+PINK1	Rot	3
+PINK1	serine	3
+GBA	DA	3
+GBA	glucosylsphingosine	3
+GBA	sphingolipids	3
+DJ1	butylphthalide	3
+DJ1	Ca2+	3
+DJ1	dopamine	3
+MAO-B	6-hydroxydopamine	3
+MAO-B	Amantadine	3
+MAO-B	oxadiazole	3
+MAO-B	pergolide	3
+MAO-B	prasinezumab	3
+MAO-B	Rasagiline	3
+COMT	CD	3
+COMT	DA	3
+COMT	DDCI	3
+COMT	levodopa/benserazide	3
+COMT	ROS	3
+COMT	Tolcapone	3
+PRKN	melanin	3
+PRKN	serine	3
+LRRK2	iron	3
+LRRK2	MPTP	3
+LRRK2	Rotenone	3
+alpha-synuclein	HS	3
+alpha-synuclein	JNJ7777120	3
+alpha-synuclein	Pramipexole	3
+alpha-synuclein	RES	3
+alpha-synuclein	Rotenone	3
+alpha-synuclein	selegiline	3
+alpha-synuclein	Ser129	3
+alpha-beta	beta-ATP	3
+alpha-beta	copper	3
+alpha-beta	EGCG	3
+alpha-beta	lipid	3
+alpha-beta	oxysterol	3
+alpha-beta	polyphenol	3
+alpha-beta	Raloxifene	3
+GDNF	6-hydroxydopamine	3
+GDNF	BT44	3
+GDNF	MPP+	3
+GDNF	BT44	3
+GDNF	DOPAC	3
+GDNF	LPS	3
+GDNF	tyrosine	3
+TNF-alpha	calcium	3
+TNF-alpha	iron	3
+TNF-alpha	levodopa	3
+TNF-alpha	lipid	3
+TNF-alpha	melatonin	3
+TNF-alpha	nitric oxide	3
+tyrosine hydroxylase	6-hydroxydopamine	3
+tyrosine hydroxylase	BH4	3
+Nrf2	cystine	3
+Nrf2	dopamine	3
+Nrf2	Quercetin	3
+parkin	dopamine	3
+AKT	dopamine	3
+AKT	HS	3
+AKT	serine	3
+AKT	Vildagliptin	3
+DRD2	3H	3
+DRD2	adenosine	3
+DRD2	glutamate	3
+DRD2	IPT	3
+DRD2	NMSP	3
+DRD2	piribedil	3
+DRD2	Ropinirole	3
+DRD2	T3	3
+Syn	ANS	3
+Syn	Ca2+	3
+Syn	daidzein	3
+Syn	scopoletin	3
+alpha-synuclein	#NAME?	2
+alpha-synuclein	1-hydroxypyrazin-2	2
+alpha-synuclein	1-hydroxypyridin-2(1H)-ones	2
+alpha-synuclein	123I-MIBG	2
+alpha-synuclein	13C2H15N	2
+alpha-synuclein	1H	2
+alpha-synuclein	3-Brpa	2
+alpha-synuclein	5-(4-pyridinyl)-1,2,4-triazole	2
+alpha-synuclein	acetylcholine	2
+alpha-synuclein	adenosine	2
+alpha-synuclein	amantadine	2
+alpha-synuclein	anthocyanins	2
+alpha-synuclein	Anthocyanins	2
+alpha-synuclein	apomorphine	2
+alpha-synuclein	ceramide	2
+alpha-synuclein	chlorogenic acid	2
+alpha-synuclein	cysteines	2
+alpha-synuclein	D-PUFAs	2
+alpha-synuclein	DHPG	2
+alpha-synuclein	DOPAC	2
+alpha-synuclein	dopamine-o-quinone	2
+alpha-synuclein	Doxycycline	2
+alpha-synuclein	ellagic acid	2
+alpha-synuclein	Ellagic Acid	2
+alpha-synuclein	ETM	2
+alpha-synuclein	Fatty acids	2
+alpha-synuclein	Fe2+	2
+alpha-synuclein	fisetin	2
+alpha-synuclein	formalin	2
+alpha-synuclein	gangliosides	2
+alpha-synuclein	glycyrrhetic acid	2
+alpha-synuclein	graphene oxide	2
+alpha-synuclein	GSH	2
+alpha-synuclein	H2O2	2
+alpha-synuclein	hydrogen	2
+alpha-synuclein	IND-1233-ASO	2
+alpha-synuclein	LB	2
+alpha-synuclein	lipofuscin	2
+alpha-synuclein	LP	2
+alpha-synuclein	luminal	2
+alpha-synuclein	Manganese	2
+alpha-synuclein	Memantine	2
+alpha-synuclein	MHPG	2
+alpha-synuclein	miR-153-3p	2
+alpha-synuclein	MTT	2
+alpha-synuclein	NAb	2
+alpha-synuclein	NDD	2
+alpha-synuclein	NDD+	2
+alpha-synuclein	NMDA	2
+alpha-synuclein	OLA	2
+alpha-synuclein	oligonucleotides	2
+alpha-synuclein	paraffin	2
+alpha-synuclein	phosphatidic acid	2
+alpha-synuclein	PIP3	2
+alpha-synuclein	poly(AN-co-MSAN)	2
+alpha-synuclein	polymer	2
+alpha-synuclein	polymers	2
+alpha-synuclein	polyunsaturated fatty acids	2
+alpha-synuclein	pSer129	2
+alpha-synuclein	PSER129	2
+alpha-synuclein	purine	2
+alpha-synuclein	pyrroloquinoline quinone	2
+alpha-synuclein	rapamycin	2
+alpha-synuclein	riboflavin	2
+alpha-synuclein	Roflupram	2
+alpha-synuclein	SDS	2
+alpha-synuclein	Ser129	2
+alpha-synuclein	short chain fatty acids	2
+alpha-synuclein	sphingolipid	2
+alpha-synuclein	sucrose	2
+alpha-synuclein	thioflavin T	2
+alpha-synuclein	Thioflavin T	2
+alpha-synuclein	Tocotrienols	2
+alpha-synuclein	urate	2
+alpha-synuclein	Withaferin A	2
+alpha-synuclein	zinc oxide	2
+LRRK2	11C-PBR28	2
+LRRK2	1H-indazole	2
+LRRK2	3H-indazole	2
+LRRK2	Ala1950	2
+LRRK2	AMP	2
+LRRK2	Ca2+	2
+LRRK2	DSS	2
+LRRK2	indazole	2
+LRRK2	Levodopa	2
+LRRK2	MLi-2	2
+LRRK2	NAADP	2
+LRRK2	nitrogen	2
+LRRK2	Ser910	2
+LRRK2	Ser935	2
+LRRK2	Y1527	2
+SNCA	6-hydroxydopamine	2
+SNCA	anthocyanins	2
+SNCA	Anthocyanins	2
+SNCA	ATP	2
+SNCA	bafilomycin A1	2
+SNCA	butyrate	2
+SNCA	catecholamines	2
+SNCA	CS	2
+SNCA	Demethylenetetrahydroberberine	2
+SNCA	DP189	2
+SNCA	DSS	2
+SNCA	etoposide	2
+SNCA	farnesol	2
+SNCA	Farnesol	2
+SNCA	Ferruginol	2
+SNCA	Ginkgolide K	2
+SNCA	glutamate	2
+SNCA	glycyrrhetic acid	2
+SNCA	GO	2
+SNCA	graphene	2
+SNCA	IND-1233-ASO	2
+SNCA	KRG	2
+SNCA	L-tryptophan	2
+SNCA	LB	2
+SNCA	lipid	2
+SNCA	liproxstatin-1	2
+SNCA	miR-153-3p	2
+SNCA	NaA	2
+SNCA	nitric oxide	2
+SNCA	ochratoxin A	2
+SNCA	oligonucleotides	2
+SNCA	oxygen	2
+SNCA	Perampanel	2
+SNCA	PFFs	2
+SNCA	reactive oxygen species	2
+SNCA	SCFAs	2
+SNCA	Serine	2
+SNCA	short-chain fatty acids	2
+SNCA	sodium butyrate	2
+SNCA	staurosporine	2
+SNCA	Tau+PQ	2
+SNCA	taurine	2
+FOG	dopamine	2
+FOG	fluoro-L-Dopa	2
+FOG	Levodopa	2
+FOG	levodopa-carbidopa	2
+FOG	nFoG	2
+FOG	SP	2
+tau	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	2
+tau	calcium	2
+tau	E10	2
+tau	NDD	2
+tau	NDD+	2
+tau	p-tau181	2
+tau	silver	2
+dopamine transporter	3,4-dihydroxyphenylacetic acid	2
+dopamine transporter	6-hydroxydopamine	2
+dopamine transporter	calcium	2
+dopamine transporter	carbon monoxide	2
+dopamine transporter	cocaine	2
+dopamine transporter	cyclohexane	2
+dopamine transporter	cysteinyl-catechols	2
+dopamine transporter	dCIT	2
+dopamine transporter	fluorodopamine	2
+dopamine transporter	IACFT	2
+dopamine transporter	iodobenzamide	2
+dopamine transporter	Manganese	2
+dopamine transporter	nicotine	2
+dopamine transporter	NMDA	2
+dopamine transporter	Pramipexole	2
+dopamine transporter	tyrosine	2
+PINK1	BPAN	2
+PINK1	Calcium	2
+PINK1	Dopamine	2
+PINK1	Ghrelin	2
+PINK1	glucosylceramides	2
+PINK1	His433	2
+PINK1	lipid	2
+PINK1	MK-7	2
+PINK1	MPP+	2
+PINK1	nitrogen	2
+PINK1	Ser228	2
+PINK1	Ser65	2
+PINK1	Serine228	2
+GBA	AMP	2
+GBA	Dopamine	2
+GBA	glucose	2
+GBA	HexSph	2
+GBA	Levodopa	2
+GBA	sphingolipid	2
+GBA	Venglustat	2
+DJ1	Calcium	2
+DJ1	nitrogen	2
+DJ1	Withaferin A	2
+DJ1	zinc oxide	2
+STN	dopamine	2
+MAO-B	6-OHDA	2
+MAO-B	alpha-aminoamide	2
+MAO-B	Baicalein	2
+MAO-B	cabergoline	2
+MAO-B	calcium	2
+MAO-B	carbidopa/levodopa	2
+MAO-B	chloroquine	2
+MAO-B	DHE	2
+MAO-B	GSH	2
+MAO-B	L-dopa	2
+MAO-B	metal	2
+MAO-B	neuromelanin	2
+MAO-B	polyacrylamide	2
+MAO-B	R-(-)-Deprenyl	2
+MAO-B	talipexole	2
+MAO-B	TMSX	2
+MAO-B	Zonisamide	2
+COMT	aldosterone	2
+COMT	Apomorphine	2
+COMT	carbidopa/levodopa	2
+COMT	dopa	2
+COMT	glutamate	2
+COMT	homocysteine	2
+COMT	LCIG	2
+COMT	MPTP	2
+COMT	neuromelanin	2
+COMT	nitrocatechol	2
+COMT	pramipexole	2
+COMT	selegiline	2
+PRKN	cysteines	2
+PRKN	Levodopa	2
+PRKN	Y1527	2
+LRRK2	chloroquine	2
+LRRK2	DSS	2
+LRRK2	FCCP	2
+LRRK2	leucine	2
+LRRK2	MLi-2	2
+LRRK2	PF-06447475	2
+LRRK2	phosphoSerine935	2
+BDNF	1,25-dihydroxy-vitamin D3	2
+BDNF	6-hydroxydopamine	2
+BDNF	6-OHDA	2
+BDNF	Ca2+	2
+BDNF	calcitriol	2
+BDNF	calcium	2
+BDNF	calcium phosphate	2
+BDNF	fatty acids	2
+BDNF	Kaempferol	2
+BDNF	KPF	2
+BDNF	Phosphate	2
+BDNF	tyrosine	2
+BDNF	vitamin D	2
+alpha-synuclein	20C	2
+alpha-synuclein	5-HT	2
+alpha-synuclein	ATP	2
+alpha-synuclein	bibenzyl	2
+alpha-synuclein	chloroquine	2
+alpha-synuclein	D-PUFAs	2
+alpha-synuclein	diosmin	2
+alpha-synuclein	EA	2
+alpha-synuclein	exendin-4	2
+alpha-synuclein	glutamate	2
+alpha-synuclein	I3C	2
+alpha-synuclein	lipids	2
+alpha-synuclein	Naringenin	2
+alpha-synuclein	Nicotine	2
+alpha-synuclein	Noscapine	2
+alpha-synuclein	PE	2
+alpha-synuclein	rasagiline	2
+alpha-synuclein	reactive oxygen species	2
+alpha-synuclein	ROT	2
+alpha-synuclein	serotonin	2
+alpha-synuclein	Venlafaxine	2
+alpha-beta	24S-HC	2
+alpha-beta	24S-hydroxycholesterol	2
+alpha-beta	aspartate	2
+alpha-beta	calcium	2
+alpha-beta	dopamine	2
+alpha-beta	glucose	2
+alpha-beta	glutamate	2
+alpha-beta	Glutamate	2
+alpha-beta	p-tau181	2
+alpha-beta	resveratrol	2
+alpha-beta	SDS	2
+GDNF	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	2
+GDNF	levodopa	2
+GDNF	remdesivir	2
+Apolipoprotein E	aldosterone	2
+GDNF	glutathione	2
+GDNF	RA	2
+GDNF	ROS	2
+GDNF	Rotenone	2
+TNF-alpha	1-methyl-4-phenylpyridinium	2
+TNF-alpha	6-hydroxydopamine	2
+TNF-alpha	Arginine	2
+TNF-alpha	CCK-8	2
+TNF-alpha	cholesterol	2
+TNF-alpha	DSS	2
+TNF-alpha	glutamate	2
+TNF-alpha	MPTP	2
+TNF-alpha	MTT	2
+TNF-alpha	nigella oil	2
+TNF-alpha	ropinirole	2
+TNF-alpha	Ropinirole	2
+tyrosine hydroxylase	diosmin	2
+tyrosine hydroxylase	lipopolysaccharide	2
+tyrosine hydroxylase	Nicotine	2
+DJ-1	Withaferin A	2
+Nrf2	calcium	2
+Nrf2	manganese	2
+Nrf2	metal	2
+Nrf2	MPP +	2
+Nrf2	MPP+	2
+Nrf2	Withaferin A	2
+PGP9.5	#NAME?	2
+AKT	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	2
+AKT	3-Brpa	2
+AKT	6-hydroxydopamine	2
+AKT	ATP	2
+AKT	chlorogenic acid	2
+AKT	DA	2
+AKT	exendin-4	2
+AKT	flavonoid	2
+AKT	Kaempferol	2
+AKT	KPF	2
+AKT	reactive oxygen species	2
+AKT	ROS	2
+AKT	SCFAs	2
+ATP13A2	Calcium	2
+VPS35	Ser910	2
+VPS35	Ser935	2
+DRD2	123I-IBF	2
+DRD2	6-hydroxydopamine	2
+DRD2	Adenosine	2
+DRD2	bromocriptine	2
+DRD2	ergoline	2
+DRD2	L-Dopa/benserazide	2
+DRD2	N-methylspiperone	2
+DRD2	NMB	2
+DRD2	pergolide	2
+DRD2	raclopride	2
+DRD2	selegiline	2
+DRD2	Tocotrienols	2
+Syn	DA	2
+Syn	Fe2+	2
+Syn	fisetin	2
+Syn	iron	2
+Syn	melanin	2
+Syn	ThT	2
+Syn	tyrosine	2
+alpha-synuclein	#NAME?	1
+alpha-synuclein	#NAME?	1
+alpha-synuclein	(-)-epigallocatechin gallate	1
+alpha-synuclein	[11C]-raclopride	1
+alpha-synuclein	[18F]-6-fluoro-L-dopa	1
+alpha-synuclein	[18F]Nifene	1
+alpha-synuclein	]-metaiodobenzylguanidine	1
+alpha-synuclein	1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine	1
+alpha-synuclein	1-methyl-4-phenyl-1,2,3, 6-tetrahydropyridine	1
+alpha-synuclein	1-methyl-4-phenyl-1,2,3,6-tetrahydropiridine	1
+alpha-synuclein	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+alpha-synuclein	1-methyl-4-phenylpyridinium	1
+alpha-synuclein	1-methyl, 4-phenyl, 1,2,3,6 tetrahydropyridine	1
+alpha-synuclein	1,2-dioleoyl-sn-glycero-3-phosphocholine	1
+alpha-synuclein	1,2-dipalmitoyl-sn-glycero-3-phosphocholine	1
+alpha-synuclein	123I-metaiodobenzylguanidine	1
+alpha-synuclein	18F-DOPA	1
+alpha-synuclein	18F-FDG	1
+alpha-synuclein	18F-FP-CIT	1
+alpha-synuclein	3-(4,5-dimethyithiazol-2-yl)-2,5-diphenyl-tetrazolium bromide	1
+alpha-synuclein	3-bromopyruvic acid	1
+alpha-synuclein	3-methoxy-4-hydroxyphenylglycol	1
+alpha-synuclein	3,4-dihydroxyphenylacetic acid	1
+alpha-synuclein	3,4-dihydroxyphenylglycol	1
+alpha-synuclein	"4,4-Dimethoxychalcone	Chemical	-
+34332078	64	74	riboflavin	Chemical	MESH:D012256
+34332078	313	335	4,4-dimethoxychalcone"	1
+alpha-synuclein	5-(4-Pyridinyl)-1,2,4-triazole	1
+alpha-synuclein	8-anilinonaphthalene-1-sulfonic acid	1
+alpha-synuclein	Abeta	1
+alpha-synuclein	acyl-CoA	1
+alpha-synuclein	Al	1
+alpha-synuclein	Ala69	1
+alpha-synuclein	alanine	1
+alpha-synuclein	alcohol	1
+alpha-synuclein	Alcohol	1
+alpha-synuclein	alcoholic-sugar	1
+alpha-synuclein	All-trans-retinoic acid	1
+alpha-synuclein	alpha-Klotho	1
+alpha-synuclein	alpha-syn	1
+alpha-synuclein	alpha-syn PFF	1
+alpha-synuclein	alphaSyn-PM	1
+alpha-synuclein	aluminium	1
+alpha-synuclein	ambroxol	1
+alpha-synuclein	amide	1
+alpha-synuclein	AMP	1
+alpha-synuclein	aniline	1
+alpha-synuclein	Apo	1
+alpha-synuclein	arachidonic acid	1
+alpha-synuclein	arsenic	1
+alpha-synuclein	As	1
+alpha-synuclein	ascorbic acid	1
+alpha-synuclein	ASOs	1
+alpha-synuclein	Asp-N	1
+alpha-synuclein	Asp121	1
+alpha-synuclein	aspartate	1
+alpha-synuclein	AuNPs	1
+alpha-synuclein	Benzo	1
+alpha-synuclein	benzo[a]pyrene	1
+alpha-synuclein	BIIB054	1
+alpha-synuclein	bile acids	1
+alpha-synuclein	Bisquinoline	1
+alpha-synuclein	brefeldin A	1
+alpha-synuclein	bromine	1
+alpha-synuclein	bromocriptine	1
+alpha-synuclein	C16	1
+alpha-synuclein	cadmium	1
+alpha-synuclein	caffeine	1
+alpha-synuclein	cAMP	1
+alpha-synuclein	carbon nanotube	1
+alpha-synuclein	carboxylic acids	1
+alpha-synuclein	cardiolipin	1
+alpha-synuclein	catechins	1
+alpha-synuclein	cd	1
+alpha-synuclein	CD	1
+alpha-synuclein	chitosan	1
+alpha-synuclein	Cholesterol	1
+alpha-synuclein	cholesterolgenesis	1
+alpha-synuclein	cholesterols	1
+alpha-synuclein	cholesteryl ester	1
+alpha-synuclein	cinpanemab	1
+alpha-synuclein	coenzyme q10	1
+alpha-synuclein	coenzyme Q10	1
+alpha-synuclein	Congo red	1
+alpha-synuclein	copper(II)	1
+alpha-synuclein	Copper(II)	1
+alpha-synuclein	creatinine	1
+alpha-synuclein	CTIQs	1
+alpha-synuclein	D-linoleic	1
+alpha-synuclein	DDC	1
+alpha-synuclein	deferiprone	1
+alpha-synuclein	Deferiprone	1
+alpha-synuclein	Delta-T3	1
+alpha-synuclein	deuterated PUFAs	1
+alpha-synuclein	deuteriums	1
+alpha-synuclein	dextrose	1
+alpha-synuclein	DHM	1
+alpha-synuclein	diacylglycerol	1
+alpha-synuclein	dicyclohexylcarbodi-imide	1
+alpha-synuclein	digitonin	1
+alpha-synuclein	diglycerides	1
+alpha-synuclein	digoxygenin	1
+alpha-synuclein	Dihydromyricetin	1
+alpha-synuclein	dihydroquinazoline	1
+alpha-synuclein	Dihydroquinazolines	1
+alpha-synuclein	dimethylglyoxime	1
+alpha-synuclein	DLPS	1
+alpha-synuclein	DMGO	1
+alpha-synuclein	dopa	1
+alpha-synuclein	DOPC	1
+alpha-synuclein	DOPS	1
+alpha-synuclein	Doxorubicin	1
+alpha-synuclein	Ellagic acid	1
+alpha-synuclein	entacapone	1
+alpha-synuclein	ethyl 2-((4-amino-5-(pyridin-4-yl)-4H-1,2,4-triazol-3-yl)thio)acetate	1
+alpha-synuclein	etoposide	1
+alpha-synuclein	F-DOPA	1
+alpha-synuclein	FAD	1
+alpha-synuclein	fatty acids	1
+alpha-synuclein	FD	1
+alpha-synuclein	FDG	1
+alpha-synuclein	Fe(II)	1
+alpha-synuclein	Fe3+	1
+alpha-synuclein	ferrous iron	1
+alpha-synuclein	flavin mononucleotide	1
+alpha-synuclein	flavins	1
+alpha-synuclein	Flavonoid	1
+alpha-synuclein	flavonoids	1
+alpha-synuclein	Formalin	1
+alpha-synuclein	free radicals	1
+alpha-synuclein	Gamma-T3	1
+alpha-synuclein	GlcSph	1
+alpha-synuclein	glucosylsphingosine	1
+alpha-synuclein	glutamine	1
+alpha-synuclein	glutathione	1
+alpha-synuclein	glyburide	1
+alpha-synuclein	glycerophosphoethanolamines	1
+alpha-synuclein	glycerophospholipids	1
+alpha-synuclein	glycosaminoglycans	1
+alpha-synuclein	glycosphingolipids	1
+alpha-synuclein	GMP	1
+alpha-synuclein	GO	1
+alpha-synuclein	GPE	1
+alpha-synuclein	GPL	1
+alpha-synuclein	guanine	1
+alpha-synuclein	H-89	1
+alpha-synuclein	H-linolenic	1
+alpha-synuclein	hemes	1
+alpha-synuclein	hexadecyltrimethylammonium bromide	1
+alpha-synuclein	hexosylceramide	1
+alpha-synuclein	Hg	1
+alpha-synuclein	His13	1
+alpha-synuclein	His50	1
+alpha-synuclein	homovanillic acid	1
+alpha-synuclein	HVA	1
+alpha-synuclein	hydrogen sulfide	1
+alpha-synuclein	hydrogens	1
+alpha-synuclein	hydroxyl radicals	1
+alpha-synuclein	indatraline	1
+alpha-synuclein	IP3	1
+alpha-synuclein	KW6002	1
+alpha-synuclein	L-dopa	1
+alpha-synuclein	Lipid	1
+alpha-synuclein	Lipids	1
+alpha-synuclein	Lipopolysaccharide	1
+alpha-synuclein	LTS	1
+alpha-synuclein	lysines	1
+alpha-synuclein	m-aminobenzenesulfonic acid	1
+alpha-synuclein	magnetite	1
+alpha-synuclein	manganese	1
+alpha-synuclein	menadione	1
+alpha-synuclein	METAL	1
+alpha-synuclein	metal dichalcogenides	1
+alpha-synuclein	Metformin	1
+alpha-synuclein	methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+alpha-synuclein	Methylazoxymethanol	1
+alpha-synuclein	MGBA	1
+alpha-synuclein	midbrain organoids	1
+alpha-synuclein	miR-101	1
+alpha-synuclein	MLi-2	1
+alpha-synuclein	Monoamine	1
+alpha-synuclein	monoamines	1
+alpha-synuclein	MPP	1
+alpha-synuclein	MSA-C	1
+alpha-synuclein	MSA-P	1
+alpha-synuclein	MSAN	1
+alpha-synuclein	MTEP	1
+alpha-synuclein	N-(ethoxycarbonyl)-2-ethoxy-1,2-dihydroquinoline	1
+alpha-synuclein	n-acetylneuraminic acid	1
+alpha-synuclein	n-Acetylneuraminic Acid	1
+alpha-synuclein	N-Methyl-D-Aspartate	1
+alpha-synuclein	nAb	1
+alpha-synuclein	NAC	1
+alpha-synuclein	NAD+	1
+alpha-synuclein	NADH	1
+alpha-synuclein	NH4Cl	1
+alpha-synuclein	nicotinamide	1
+alpha-synuclein	nicotine	1
+alpha-synuclein	o-quinone	1
+alpha-synuclein	O2	1
+alpha-synuclein	okadaic acid	1
+alpha-synuclein	olaparib	1
+alpha-synuclein	oleic acid	1
+alpha-synuclein	palmitate	1
+alpha-synuclein	Paraffin	1
+alpha-synuclein	Paraquat	1
+alpha-synuclein	Pb	1
+alpha-synuclein	PB	1
+alpha-synuclein	pentose phosphate	1
+alpha-synuclein	peptide	1
+alpha-synuclein	pergolide	1
+alpha-synuclein	phenol	1
+alpha-synuclein	phenylalanine	1
+alpha-synuclein	phosphate	1
+alpha-synuclein	phosphatidylinositol 3-phosphate	1
+alpha-synuclein	phosphatidylinositol 3,4,5-trisphosphate	1
+alpha-synuclein	phosphatidylinositol 4,5-bisphosphate	1
+alpha-synuclein	phosphatidylinositol polyphosphate	1
+alpha-synuclein	phosphatidylinositol polyphosphates	1
+alpha-synuclein	phosphatidylserine	1
+alpha-synuclein	Phosphoamino acid	1
+alpha-synuclein	Phosphotidylserine	1
+alpha-synuclein	PI3P	1
+alpha-synuclein	PL	1
+alpha-synuclein	PNU-282987	1
+alpha-synuclein	poly(carboxybetaine-methacrylate)	1
+alpha-synuclein	polyaniline	1
+alpha-synuclein	Polyglutamine	1
+alpha-synuclein	polymer acid	1
+alpha-synuclein	polyphenolic compound	1
+alpha-synuclein	polyphenols	1
+alpha-synuclein	Polyphenols	1
+alpha-synuclein	Polyunsaturated fatty acids	1
+alpha-synuclein	Prasinezumab	1
+alpha-synuclein	probenecid	1
+alpha-synuclein	prolines	1
+alpha-synuclein	PS	1
+alpha-synuclein	pS-alpha-syn-	1
+alpha-synuclein	psychosine	1
+alpha-synuclein	pTau181	1
+alpha-synuclein	PUFA	1
+alpha-synuclein	PUFAs	1
+alpha-synuclein	pyrene	1
+alpha-synuclein	pyroglutamate	1
+alpha-synuclein	quinoid	1
+alpha-synuclein	quinoline	1
+alpha-synuclein	RAC	1
+alpha-synuclein	Rasagiline	1
+alpha-synuclein	Reactive oxygen species	1
+alpha-synuclein	retinoic acid	1
+alpha-synuclein	Schiff base	1
+alpha-synuclein	SCOPA	1
+alpha-synuclein	Se	1
+alpha-synuclein	Selegiline	1
+alpha-synuclein	Selegine	1
+alpha-synuclein	selenium	1
+alpha-synuclein	Ser	1
+alpha-synuclein	Ser131	1
+alpha-synuclein	SK-MEL-2	1
+alpha-synuclein	sodium dodecyl sulfate	1
+alpha-synuclein	Sphingolipid	1
+alpha-synuclein	Sphingolipids	1
+alpha-synuclein	sphingomyelin	1
+alpha-synuclein	steroid	1
+alpha-synuclein	succinate	1
+alpha-synuclein	sulfur	1
+alpha-synuclein	TBS	1
+alpha-synuclein	Tetrabutylphosphonium hydroxide	1
+alpha-synuclein	TG	1
+alpha-synuclein	thiazolium	1
+alpha-synuclein	thioflavin	1
+alpha-synuclein	thioflavin-T	1
+alpha-synuclein	thioflavine	1
+alpha-synuclein	thioflavine S	1
+alpha-synuclein	threonine	1
+alpha-synuclein	TMDs	1
+alpha-synuclein	tocotrienol	1
+alpha-synuclein	tolcapone	1
+alpha-synuclein	Toluidine blue	1
+alpha-synuclein	Tomatidine	1
+alpha-synuclein	transition metal dichalcogenides	1
+alpha-synuclein	trehalose	1
+alpha-synuclein	Trehalose	1
+alpha-synuclein	triacylglycerol	1
+alpha-synuclein	triglyceride	1
+alpha-synuclein	triterpenoid	1
+alpha-synuclein	Triton-X	1
+alpha-synuclein	TVP-1022	1
+alpha-synuclein	ubiquinol	1
+alpha-synuclein	Ubiquinone	1
+alpha-synuclein	Vitamin D	1
+alpha-synuclein	WA	1
+alpha-synuclein	xenobiotica	1
+LRRK2	123 I-ioflupane	1
+LRRK2	2H	1
+LRRK2	2H-indazole	1
+LRRK2	3-mercaptopropionic acid	1
+LRRK2	6-hydroxydopamine	1
+LRRK2	acetylcholine	1
+LRRK2	adalimumab	1
+LRRK2	adenosine	1
+LRRK2	ammonium	1
+LRRK2	ASO	1
+LRRK2	catecholamine	1
+LRRK2	cholesterol	1
+LRRK2	creatinine	1
+LRRK2	DA	1
+LRRK2	deuterium	1
+LRRK2	dextran sodium sulfate	1
+LRRK2	Dopamine	1
+LRRK2	Flavonoid	1
+LRRK2	Glu1948	1
+LRRK2	glucosylceramide	1
+LRRK2	Glutamate	1
+LRRK2	GTP	1
+LRRK2	indazoles	1
+LRRK2	leucine	1
+LRRK2	linc001128	1
+LRRK2	linc0938	1
+LRRK2	LPS	1
+LRRK2	maneb	1
+LRRK2	MG-132	1
+LRRK2	miR-24-3p	1
+LRRK2	miR-30c-5p	1
+LRRK2	N-methyl-D-aspartate	1
+LRRK2	oligonucleotide	1
+LRRK2	paraquat	1
+LRRK2	phosphate	1
+LRRK2	phospholipids	1
+LRRK2	Phosphosite	1
+LRRK2	pT72	1
+LRRK2	purine	1
+LRRK2	puromycin	1
+LRRK2	R130	1
+LRRK2	RAB	1
+LRRK2	serotonin	1
+LRRK2	sphingolipids	1
+LRRK2	tetramethylrhodamine methyl ester	1
+LRRK2	TMRM	1
+LRRK2	Uric Acid	1
+LRRK2	V1615	1
+LRRK2	vitamin D	1
+SNCA	-syn PFF	1
+SNCA	1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine	1
+SNCA	1-Methyl-4-Phenyl-1,2,3,6-Tetrahydropyridine	1
+SNCA	1-methyl-4-phenylpyridinium	1
+SNCA	1-Methyl-4-phenylpyridinium	1
+SNCA	1-methyl, 4-phenyl, 1,2,3,6 tetrahydropyridine	1
+SNCA	3-(4,5-dimethyithiazol-2-yl)-2,5-diphenyl-tetrazolium bromide	1
+SNCA	5uM NBP	1
+SNCA	8-anilinonaphthalene-1-sulfonic acid	1
+SNCA	AAV	1
+SNCA	acetate	1
+SNCA	acetyl-Asp-Glu-Val-Asp-aldehyde	1
+SNCA	acetylcholine	1
+SNCA	adalimumab	1
+SNCA	ala	1
+SNCA	alanine	1
+SNCA	alpha-syn PFF	1
+SNCA	ANS	1
+SNCA	arachidonic acid	1
+SNCA	ASOs	1
+SNCA	aspartate	1
+SNCA	Benzo	1
+SNCA	benzo[a]pyrene	1
+SNCA	berberine	1
+SNCA	Bisquinoline	1
+SNCA	Butyrate	1
+SNCA	C16	1
+SNCA	Ca-074-Me	1
+SNCA	cambinol	1
+SNCA	cAMP	1
+SNCA	carbon	1
+SNCA	ceramide C	1
+SNCA	deferiprone	1
+SNCA	dextran sodium sulfate	1
+SNCA	Dl-3-n-butylphthalide	1
+SNCA	Dl-3-n-Butylphthalide	1
+SNCA	E-64D	1
+SNCA	eosin	1
+SNCA	exenatide	1
+SNCA	exo-ASO4	1
+SNCA	Fer	1
+SNCA	ferrous iron	1
+SNCA	fingolimod	1
+SNCA	FRGO	1
+SNCA	galactose	1
+SNCA	Galactose	1
+SNCA	GK	1
+SNCA	glutamine	1
+SNCA	glutathione	1
+SNCA	glutathione peroxide	1
+SNCA	graphene oxide	1
+SNCA	Graphene Oxide	1
+SNCA	GSH-Px	1
+SNCA	Hematoxylin	1
+SNCA	heparin	1
+SNCA	indatraline	1
+SNCA	leupeptin	1
+SNCA	levodopa	1
+SNCA	lipids	1
+SNCA	LM10	1
+SNCA	malondialdehyde	1
+SNCA	MDA	1
+SNCA	methanol	1
+SNCA	Methanol	1
+SNCA	methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+SNCA	MiRNA-148a	1
+SNCA	Monoamine	1
+SNCA	MPP +	1
+SNCA	MPTP-probenecid	1
+SNCA	MTEP	1
+SNCA	MTT	1
+SNCA	NaCl	1
+SNCA	NaP	1
+SNCA	NH4Cl	1
+SNCA	nicotine	1
+SNCA	Nissl	1
+SNCA	norepinephrine	1
+SNCA	NTRC 3531-0	1
+SNCA	PNU-282987	1
+SNCA	polyphenols	1
+SNCA	PRGO	1
+SNCA	probenecid	1
+SNCA	propionate	1
+SNCA	pSer129	1
+SNCA	psychosine	1
+SNCA	pyrene	1
+SNCA	pyroglutamate	1
+SNCA	quinoline	1
+SNCA	Reactive oxygen species	1
+SNCA	reserpine	1
+SNCA	Rotenone	1
+SNCA	SB203580	1
+SNCA	ser129	1
+SNCA	SN4741	1
+SNCA	sodium acetate	1
+SNCA	sodium propionate	1
+SNCA	Suc-Leu-Leu-Val-Tyr-AMC	1
+SNCA	Suc-LLVY-AMC	1
+SNCA	sucrose	1
+SNCA	superoxide	1
+SNCA	Tau	1
+SNCA	TH+	1
+SNCA	thio-S	1
+SNCA	thioflavin-S	1
+SNCA	Thioflavin T	1
+SNCA	thiol	1
+SNCA	Thr	1
+SNCA	triterpenoid	1
+SNCA	urate	1
+SNCA	water	1
+FOG	AO	1
+FOG	CL-DBS	1
+FOG	CR	1
+FOG	gyroscope	1
+FOG	Holocue	1
+FOG	IMU	1
+FOG	LCIG	1
+FOG	MELBA	1
+FOG	NFoG	1
+FOG	noFOG	1
+FOG	SCOPA	1
+FOG	SMBT	1
+FOG	SPH	1
+tau	123I-MIBG	1
+tau	18F-DOPA	1
+tau	18F-FDG	1
+tau	3-[(propan- 2-yl)oxy]propan-1-amine	1
+tau	6-hydroxydopamine	1
+tau	adenosine	1
+tau	B-Meson	1
+tau	benzimidazole	1
+tau	benzopyridine	1
+tau	benzothiazole	1
+tau	BG	1
+tau	Cmin	1
+tau	cyclopropyl amide	1
+tau	dioxolo-benzoxazine	1
+tau	dopa	1
+tau	Dopamine	1
+tau	eosin	1
+tau	ethylene diamine tetraacetic acid	1
+tau	FDG	1
+tau	FTDP	1
+tau	gangliosides	1
+tau	glucose	1
+tau	glycosaminoglycans	1
+tau	guanine	1
+tau	Hematoxylin	1
+tau	hexanucleotide	1
+tau	lactate	1
+tau	lipid	1
+tau	meta-iodobenzylguanidine	1
+tau	metal	1
+tau	methionine	1
+tau	Methylazoxymethanol	1
+tau	nocodazole	1
+tau	oxadiazole	1
+tau	PB	1
+tau	peptide	1
+tau	phenyl carbamothioate	1
+tau	polyaniline	1
+tau	polymer	1
+tau	polymer acid	1
+tau	pTau181	1
+tau	pyrazine	1
+tau	pyrazole	1
+tau	SCOPA	1
+tau	Ser	1
+tau	serine	1
+tau	serines	1
+tau	Sodium selenate	1
+tau	threonine	1
+tau	Tilavonemab	1
+tau	Toluidine blue	1
+tau	Triton-X	1
+dopamine transporter	)F]-	1
+dopamine transporter	)tropane	1
+dopamine transporter	[C-11]-PE2I	1
+dopamine transporter	[I-123] IPT	1
+dopamine transporter	[I-123]N-(3-iodopropen-2-yl)-2beta-carbomethoxy-3beta-(4-chl orophenyl) tropane	1
+dopamine transporter	] beta-CIT	1
+dopamine transporter	] N-(3-fluoropropyl)-2beta-carbonethoxy-3beta-(4-iodophenyl) nortropane	1
+dopamine transporter	]FDOPA	1
+dopamine transporter	1-methyl-4-phenyl-1,2,3, 6-tetrahydropyridine	1
+dopamine transporter	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+dopamine transporter	1-methyl-4-phenylpyridinium	1
+dopamine transporter	11C-methyl-N-2beta-carbomethoxy-3beta-(4-fluorophenyl)-tropanel	1
+dopamine transporter	123 I-ioflupane	1
+dopamine transporter	123I-Ioflupane	1
+dopamine transporter	123I-metaiodobenzylguanidine	1
+dopamine transporter	123I-MIBG	1
+dopamine transporter	123ioflupane	1
+dopamine transporter	2-beta-carbomethoxy-3beta-(4-[11C]fluorophenyl)tropane	1
+dopamine transporter	2-beta-carbomethoxy-3beta-(4-fluorophenyl) tropane	1
+dopamine transporter	2 beta-carboxymethoxy-3 beta-(4-iodophenyl)tropane	1
+dopamine transporter	2 beta-carboxymethoxy-3 beta-(4[123I]iodophenyl)tropane	1
+dopamine transporter	2beta-carbomethoxy-3beta-(4-[(	1
+dopamine transporter	2beta-carbomethoxy-3beta-(4-[18F]fluorophenyl)tropane	1
+dopamine transporter	2Beta-carbomethoxy-3beta-(4-fluorophenyl)-n-(1-iodoprop-1-en -3-yl) nortropane	1
+dopamine transporter	2beta-carbomethoxy-3beta-[4-iodophenyl]tropane	1
+dopamine transporter	2beta-carboxymethoxy-3beta-[4-iodophenyl] tropane	1
+dopamine transporter	6-[18F]fluoro-L-m-tyrosine	1
+dopamine transporter	99mTc-TRODAT-1	1
+dopamine transporter	ADV	1
+dopamine transporter	alpha-methyl-paratyrosine	1
+dopamine transporter	amino-cupric-silver	1
+dopamine transporter	amphetamine	1
+dopamine transporter	AMPT	1
+dopamine transporter	apomorphine	1
+dopamine transporter	beta-CFT	1
+dopamine transporter	beta-CIT ((1R)-2beta-Carbomethoxy-3beta-(4-iodophenyl)tropane	1
+dopamine transporter	carbidopa	1
+dopamine transporter	carbidopa/levodopa	1
+dopamine transporter	carbohydrate	1
+dopamine transporter	carbon	1
+dopamine transporter	chloroquine	1
+dopamine transporter	choline	1
+dopamine transporter	CO	1
+dopamine transporter	creatine	1
+dopamine transporter	Cys	1
+dopamine transporter	cysteinyl-3,4-dihydroxyphenylacetic acid	1
+dopamine transporter	cysteinyl-dopamine	1
+dopamine transporter	dNDD	1
+dopamine transporter	dopa	1
+dopamine transporter	epidepride	1
+dopamine transporter	ethyl cysteinate	1
+dopamine transporter	F]FDOPA	1
+dopamine transporter	F]fluoro-L-dopa	1
+dopamine transporter	fluoropropyl-carbomethoxylodopropyl-nor-ss-tropane	1
+dopamine transporter	FMT	1
+dopamine transporter	Glutathione	1
+dopamine transporter	GSEA	1
+dopamine transporter	GSH	1
+dopamine transporter	H2O	1
+dopamine transporter	I-FP-CIT	1
+dopamine transporter	IBZM	1
+dopamine transporter	ioflupane	1
+dopamine transporter	Ioflupane iodine-123	1
+dopamine transporter	leucine	1
+dopamine transporter	levodopa-carbidopa intestinal gel	1
+dopamine transporter	metaiodobenzylguanidine	1
+dopamine transporter	metal	1
+dopamine transporter	MPP+	1
+dopamine transporter	N-(3-iodoprop-2E-enyl)-2b-carbomethoxy-3b-(4-methyl-phenyl)nortropane)	1
+dopamine transporter	N-3-fluoropropyl-2-beta-carbomethoxy-3-beta-(4-iodophe nyl)nortropane	1
+dopamine transporter	N-Methyl-D-Aspartate	1
+dopamine transporter	N-omega-fluoropropyl-2 beta-carbomethoxy-3 beta-(4-iodophenyl)nortropane	1
+dopamine transporter	NDDs	1
+dopamine transporter	Neuromelanin	1
+dopamine transporter	nitrite	1
+dopamine transporter	NM-SN	1
+dopamine transporter	noradrenaline	1
+dopamine transporter	oxygen species	1
+dopamine transporter	pertechnetate	1
+dopamine transporter	phosphate	1
+dopamine transporter	Prasinezumab	1
+dopamine transporter	pRBD	1
+dopamine transporter	quinones	1
+dopamine transporter	Resveratrol	1
+dopamine transporter	SCOPA	1
+dopamine transporter	serotonin	1
+dopamine transporter	Sialic acid	1
+dopamine transporter	Tc-99m	1
+dopamine transporter	Tc-99m ethyl cysteinate	1
+dopamine transporter	TRODAT	1
+dopamine transporter	TT	1
+dopamine transporter	urate	1
+dopamine transporter	Uric Acid	1
+dopamine transporter	valproic acid	1
+PINK1	1-methyl-4-phenyl-1,2,3,6- tetrahydropyran	1
+PINK1	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+PINK1	1-methyl-4-phenylpyridinium	1
+PINK1	6-hydroxydopamine	1
+PINK1	adenosine	1
+PINK1	ammonium	1
+PINK1	ATP	1
+PINK1	benzosulphonamide	1
+PINK1	cardiolipin	1
+PINK1	catechin	1
+PINK1	ceramide	1
+PINK1	ceramides	1
+PINK1	deuterium	1
+PINK1	disulfide	1
+PINK1	ECG	1
+PINK1	Epicatechin gallate	1
+PINK1	Epicatechin Gallate	1
+PINK1	Flavonoid	1
+PINK1	glucose	1
+PINK1	Glutamate	1
+PINK1	hydrogen	1
+PINK1	Ile111	1
+PINK1	L-dopa	1
+PINK1	Levodopa	1
+PINK1	lipids	1
+PINK1	lysine	1
+PINK1	menaquinone	1
+PINK1	N-methyl-D-aspartate	1
+PINK1	NAD+	1
+PINK1	neutral red	1
+PINK1	Nitric Oxide	1
+PINK1	phosphoubiquitin	1
+PINK1	reactive oxidative species	1
+PINK1	reactive oxygen species	1
+PINK1	ROS	1
+PINK1	Ser205	1
+PINK1	Serine65	1
+PINK1	sphingolipids	1
+PINK1	Staurosporine	1
+PINK1	sulfur	1
+PINK1	TCA	1
+PINK1	vitamin B6	1
+PINK1	Vitamin B6	1
+PINK1	vitamin K2	1
+PINK1	Vitamin K2	1
+GBA	#NAME?	1
+GBA	4-methylumbelliferyl beta-D-glucopyranoside	1
+GBA	adenosine	1
+GBA	amantadine	1
+GBA	Ambroxol hydrochloride	1
+GBA	ASO	1
+GBA	calcium	1
+GBA	carbidopa	1
+GBA	catecholamine	1
+GBA	cholesterol	1
+GBA	creatinine	1
+GBA	dopa	1
+GBA	F-dopa	1
+GBA	GL-1	1
+GBA	GlcSph	1
+GBA	GluCer	1
+GBA	GluSph	1
+GBA	glycosphingolipid	1
+GBA	glycosphingolipids	1
+GBA	GTP	1
+GBA	hexosylceramide	1
+GBA	hexosylsphingosine	1
+GBA	LTI	1
+GBA	NAD	1
+GBA	oligonucleotide	1
+GBA	phospholipids	1
+GBA	purine	1
+GBA	serotonin	1
+GBA	Sphingolipid	1
+GBA	Sphingolipids	1
+GBA	sphingomyelin	1
+GBA	vitamin D	1
+DJ1	1,3-bisphosphoglycerate	1
+DJ1	1,3-BPG	1
+DJ1	11-amino-1-undecanethiol	1
+DJ1	11-AUT	1
+DJ1	6-hydroxydopamine	1
+DJ1	aluminum	1
+DJ1	amantadine	1
+DJ1	AuNP	1
+DJ1	Butylphthalide	1
+DJ1	caffeine	1
+DJ1	calcium	1
+DJ1	carbohydrates	1
+DJ1	carbon nanotube	1
+DJ1	CDN1163	1
+DJ1	cysteine	1
+DJ1	Dopamine	1
+DJ1	Flavonoid	1
+DJ1	glucose	1
+DJ1	glycerate	1
+DJ1	indium tin oxide	1
+DJ1	iron	1
+DJ1	Iron	1
+DJ1	L-dopa	1
+DJ1	Leu10	1
+DJ1	Levodopa	1
+DJ1	MPTP	1
+DJ1	Nitric Oxide	1
+DJ1	phosphoglycerate	1
+DJ1	polyethylene	1
+DJ1	propeptide	1
+DJ1	ROS	1
+DJ1	terephthalate	1
+DJ1	WA	1
+STN	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+STN	Cz	1
+STN	l-DOPA	1
+STN	levodopa	1
+STN	muscimol	1
+STN	RI	1
+STN	trihexyphenidyl	1
+MAO-B	#NAME?	1
+MAO-B	(-)-deprenyl	1
+MAO-B	[11C]TMSX	1
+MAO-B	[7-methyl-11C]-(E)-8-(3,4,5-trimethoxystyryl)-1,3,7-trimethylxanthine	1
+MAO-B	1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine	1
+MAO-B	1,1-diphenyl-2-picryl-hydrazyl radical	1
+MAO-B	1,3,4-oxadiazole	1
+MAO-B	1,3,4-oxadiazoles	1
+MAO-B	11C	1
+MAO-B	"2-hydroxychalcones	Chemical	MESH:C013031
+34653442	1399	1413	benzodiazepine	Chemical	MESH:D001569
+34653442	1443	1468	gamma-aminobutyric acid A	Chemical	-
+34653442	1470	1475	GABAA	Chemical	-
+34653442	1659	1678	2-hydroxychalcones"	1
+MAO-B	"2-hydroxychalcones	Chemical	MESH:C013031
+34653442	581	590	Chalcones	Chemical	MESH:D047188
+34653442	609	619	flavonoids	Chemical	MESH:D005419
+34653442	698	717	2-hydroxychalcones"	1
+MAO-B	2,5-disubstituted	1
+MAO-B	3-Hydroxytyrosol	1
+MAO-B	4bf	1
+MAO-B	6-OH-dopamine	1
+MAO-B	adenosine	1
+MAO-B	AF64A	1
+MAO-B	agarose	1
+MAO-B	aldehyde	1
+MAO-B	amantadine hydrochloride	1
+MAO-B	amine	1
+MAO-B	amines	1
+MAO-B	arylalkylamines	1
+MAO-B	benomyl	1
+MAO-B	benzoquinone	1
+MAO-B	benzoxazinone	1
+MAO-B	beta-carbolines	1
+MAO-B	brefeldin A	1
+MAO-B	Bromocriptine	1
+MAO-B	chalcone	1
+MAO-B	chalcones	1
+MAO-B	chromen	1
+MAO-B	clorgiline	1
+MAO-B	clorgyline	1
+MAO-B	Cu	1
+MAO-B	Deprenyl	1
+MAO-B	DEX	1
+MAO-B	dexamethasone	1
+MAO-B	dinucleotide	1
+MAO-B	DOPAC	1
+MAO-B	DPPH	1
+MAO-B	ergot alkaloid	1
+MAO-B	FDG	1
+MAO-B	Fe	1
+MAO-B	flavone	1
+MAO-B	flavonoid	1
+MAO-B	Glu206	1
+MAO-B	glucose	1
+MAO-B	glutathione	1
+MAO-B	glyburide	1
+MAO-B	Glycoside	1
+MAO-B	haloperidol	1
+MAO-B	hMAO-B	1
+MAO-B	HVA	1
+MAO-B	HXT	1
+MAO-B	Hydroxytyrosol	1
+MAO-B	indane	1
+MAO-B	iproniazid	1
+MAO-B	IR3G	1
+MAO-B	isocarboxazid	1
+MAO-B	isorhamnetin	1
+MAO-B	isorhamnetin-3-O-beta-D-glucoside	1
+MAO-B	istradefylline	1
+MAO-B	karbidopa	1
+MAO-B	L-Dopa	1
+MAO-B	Lazabemide	1
+MAO-B	lazaroids	1
+MAO-B	Leu171	1
+MAO-B	lipid	1
+MAO-B	lipid peroxides	1
+MAO-B	lipopolysaccharide	1
+MAO-B	MDA	1
+MAO-B	methylamphetamine	1
+MAO-B	metoclopramide	1
+MAO-B	milacemide	1
+MAO-B	Milacemide	1
+MAO-B	N-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+MAO-B	Naringenin	1
+MAO-B	nialamide	1
+MAO-B	nitric oxide	1
+MAO-B	noradrenaline	1
+MAO-B	O2)species	1
+MAO-B	paraquat	1
+MAO-B	phenelzine	1
+MAO-B	phenobarbital	1
+MAO-B	polyphenol	1
+MAO-B	pramipexole	1
+MAO-B	Prasinezumab	1
+MAO-B	probenecid	1
+MAO-B	reactive oxygen (	1
+MAO-B	Ro19-6327	1
+MAO-B	rotigotine	1
+MAO-B	Selegiline hydrochloride	1
+MAO-B	Ser129	1
+MAO-B	SKF-525A	1
+MAO-B	sodium	1
+MAO-B	Talipexole	1
+MAO-B	tranylcypromine	1
+MAO-B	trihexyphenidyl	1
+MAO-B	tryptamine	1
+MAO-B	TVP-1022	1
+MAO-B	Tyr326	1
+MAO-B	tyramine	1
+MAO-B	Zn	1
+COMT	#NAME?	1
+COMT	2-[(2,4-dichlorophenyl)methyl]-7-hydroxy-1,2,3,4-tetrahydro-8H-pyrido[1,2-a]pyrazin-8-one	1
+COMT	2-[(2,4-Dichlorophenyl)methyl]-7-hydroxy-1,2,3,4-tetrahydro-8H-pyrido[1,2-a]pyrazin-8-one	1
+COMT	6-hydroxydopamine	1
+COMT	adenosine	1
+COMT	Amantadine	1
+COMT	amantadine hydrochloride	1
+COMT	benserazide	1
+COMT	beta-carbolines	1
+COMT	Bicyclic Hydroxypyridone	1
+COMT	bicyclic hydroxypyridones	1
+COMT	Comtan	1
+COMT	DDC	1
+COMT	ENT	1
+COMT	F	1
+COMT	glutathione	1
+COMT	GSH	1
+COMT	haloperidol	1
+COMT	istradefylline	1
+COMT	karbidopa	1
+COMT	lazaroids	1
+COMT	Levodopa-entacapone-carbidopa intestinal gel	1
+COMT	levodopa/carbidopa	1
+COMT	lipid	1
+COMT	metoclopramide	1
+COMT	N-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+COMT	O2)species	1
+COMT	OR-611	1
+COMT	PDQ-39	1
+COMT	propranolol	1
+COMT	reactive oxygen (	1
+COMT	ropinorole	1
+COMT	rotigotine	1
+COMT	short chain fatty acids	1
+COMT	Valsalva	1
+COMT	withacnistin	1
+COMT	withaferin A	1
+COMT	withaphysalin C	1
+COMT	withaphysalin D	1
+COMT	withaphysalin F	1
+COMT	withaphysalin N	1
+COMT	withaphysalin O	1
+COMT	withasomnine	1
+PRKN	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+PRKN	9-hydroxystearate	1
+PRKN	adenosine	1
+PRKN	ammonium	1
+PRKN	benzosulphonamide	1
+PRKN	carbonyl cyanide 3-chlorophenylhydrazone	1
+PRKN	Cys253	1
+PRKN	dimethyl sulfoxide	1
+PRKN	DMSO	1
+PRKN	Dopamine	1
+PRKN	G4s	1
+PRKN	glucose	1
+PRKN	hydrogen peroxide	1
+PRKN	lipids	1
+PRKN	metaiodobenzylguanidine	1
+PRKN	MG-132	1
+PRKN	NAD	1
+PRKN	parkin cysteines	1
+PRKN	phosphoubiquitin	1
+PRKN	Ser65	1
+PRKN	tetramethylrhodamine methyl ester	1
+PRKN	thiol	1
+PRKN	TMRM	1
+PRKN	V1615	1
+LRRK2	1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine	1
+LRRK2	adalimumab	1
+LRRK2	adenosine	1
+LRRK2	dextran sodium sulfate	1
+LRRK2	glutamate	1
+LRRK2	GNE-7915	1
+LRRK2	GSK3357679A	1
+LRRK2	Leucine	1
+LRRK2	LPS	1
+LRRK2	pyrrolopyrimidine	1
+LRRK2	reactive oxygen species	1
+LRRK2	Ser616	1
+LRRK2	Serine935	1
+LRRK2	tyrosine	1
+BDNF	acyl-ghrelin	1
+BDNF	aglycone	1
+BDNF	amphetamine	1
+BDNF	cyclic-AMP	1
+BDNF	flavonoid	1
+BDNF	glutathione	1
+BDNF	glycosides	1
+BDNF	Glycosphingolipid	1
+BDNF	iron	1
+BDNF	kainate	1
+BDNF	levodopa	1
+BDNF	Oxygen	1
+BDNF	RA	1
+BDNF	reactive oxygen species	1
+BDNF	Retinoic Acid	1
+BDNF	serine	1
+BDNF	superoxide	1
+BDNF	TOT	1
+BDNF	TOT-AT	1
+BDNF	UF4	1
+BDNF	Val	1
+BDNF	Val66Met single-nucleotide	1
+BDNF	water	1
+alpha-synuclein	-HpETE-	1
+alpha-synuclein	[11C]DTBZ	1
+alpha-synuclein	1- and 2-aminoindan	1
+alpha-synuclein	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+alpha-synuclein	15-HpETE	1
+alpha-synuclein	15-HpETE-PE	1
+alpha-synuclein	15-hydroperoxy (Hp)-arachidonoyl-phosphatidylethanolamine	1
+alpha-synuclein	2-[4-hydroxy-3-(4-hydroxyphenyl)benzyl]-4-(4-hydroxyphenyl)phenol	1
+alpha-synuclein	3,4-dihydroxyphenylacetaldehyde	1
+alpha-synuclein	5-HIAA	1
+alpha-synuclein	5-hydroxyindoleactic acid	1
+alpha-synuclein	8-cyclopentyl-1,3-dipropylxanthine	1
+alpha-synuclein	alkyl carboxylic acid	1
+alpha-synuclein	amphetamine	1
+alpha-synuclein	AMT	1
+alpha-synuclein	apomorphine	1
+alpha-synuclein	brefeldin A	1
+alpha-synuclein	Ca2+	1
+alpha-synuclein	cAMP	1
+alpha-synuclein	Chloroquine	1
+alpha-synuclein	cyclosporin A	1
+alpha-synuclein	D-linoleic	1
+alpha-synuclein	deuterated PUFAs	1
+alpha-synuclein	deuteriums	1
+alpha-synuclein	Diosmin	1
+alpha-synuclein	doxycycline	1
+alpha-synuclein	DTBZ	1
+alpha-synuclein	flavone	1
+alpha-synuclein	flavonoid	1
+alpha-synuclein	flavonoids	1
+alpha-synuclein	Flavonoids	1
+alpha-synuclein	GABA	1
+alpha-synuclein	gamma-aminobutyric acid	1
+alpha-synuclein	glucobrassicin	1
+alpha-synuclein	glyburide	1
+alpha-synuclein	GMP	1
+alpha-synuclein	H-linolenic	1
+alpha-synuclein	histamine	1
+alpha-synuclein	Histamine	1
+alpha-synuclein	hydrogen	1
+alpha-synuclein	hydrogen-saturated saline	1
+alpha-synuclein	Hydrogen-saturated saline	1
+alpha-synuclein	hydrogens	1
+alpha-synuclein	indole-3-carbinol	1
+alpha-synuclein	Indole-3-carbinol	1
+alpha-synuclein	iron	1
+alpha-synuclein	iso-qinulinin alkaloid	1
+alpha-synuclein	lipid peroxides	1
+alpha-synuclein	lipopolysaccharide	1
+alpha-synuclein	malondialdehyde	1
+alpha-synuclein	MDA	1
+alpha-synuclein	MPTP	1
+alpha-synuclein	N6-Cyclopentyladenosine	1
+alpha-synuclein	nicotin	1
+alpha-synuclein	noradrenaline	1
+alpha-synuclein	okadaic acid	1
+alpha-synuclein	paraquat	1
+alpha-synuclein	Paraquat	1
+alpha-synuclein	phosphate	1
+alpha-synuclein	Phosphoamino acid	1
+alpha-synuclein	phospholipids	1
+alpha-synuclein	polyphenolic compounds	1
+alpha-synuclein	polyunsaturated fatty acids	1
+alpha-synuclein	Polyunsaturated fatty acids	1
+alpha-synuclein	pramipexole	1
+alpha-synuclein	probenecid	1
+alpha-synuclein	pSyn	1
+alpha-synuclein	PUFAs	1
+alpha-synuclein	Quercetin	1
+alpha-synuclein	quinazoline	1
+alpha-synuclein	rapamycin	1
+alpha-synuclein	Rasagiline	1
+alpha-synuclein	Reserpine	1
+alpha-synuclein	Selegiline	1
+alpha-synuclein	Ser9	1
+alpha-synuclein	thiols	1
+alpha-synuclein	Tregs	1
+alpha-synuclein	TVP-1022	1
+alpha-synuclein	tyrosine	1
+alpha-synuclein	Valeric acid	1
+alpha-synuclein	Valeric Acid	1
+alpha-synuclein	water	1
+alpha-beta	(-)-epigallocatechin gallate	1
+alpha-beta	, beta- and gamma-ATP	1
+alpha-beta	18F-FP-CIT	1
+alpha-beta	18F-N-(3-fluoropropyl)-2beta-carbon ethoxy-3beta-(4-iodophenyl) nortropane	1
+alpha-beta	2-mercaptoethanol	1
+alpha-beta	5-dihydroxy-phenyl]-phenyl-methanone	1
+alpha-beta	6-OHDA	1
+alpha-beta	AbetaO10-20	1
+alpha-beta	alpha-ATP	1
+alpha-beta	Asp-N	1
+alpha-beta	ATP	1
+alpha-beta	copper(II)	1
+alpha-beta	Copper(II)	1
+alpha-beta	dicyclohexylcarbodi-imide	1
+alpha-beta	Dopamine	1
+alpha-beta	ethylene diamine tetraacetic acid	1
+alpha-beta	FDG	1
+alpha-beta	formic acid	1
+alpha-beta	fucoidan	1
+alpha-beta	gamma-ATP	1
+alpha-beta	inorganic phosphate	1
+alpha-beta	KPI	1
+alpha-beta	levodopa	1
+alpha-beta	lipids	1
+alpha-beta	metal	1
+alpha-beta	MPTP	1
+alpha-beta	N-(ethoxycarbonyl)-2-ethoxy-1,2-dihydroquinoline	1
+alpha-beta	nitric oxide	1
+alpha-beta	Paraffin	1
+alpha-beta	phosphocreatine	1
+alpha-beta	phosphodiesters	1
+alpha-beta	phosphorus	1
+alpha-beta	pifithrin	1
+alpha-beta	rotenone	1
+alpha-beta	SMM-189	1
+alpha-beta	sodium dodecyl sulfate	1
+alpha-beta	sodium iodoacetate	1
+alpha-beta	TBS	1
+alpha-beta	urate	1
+alpha-beta	xanthones	1
+alpha-beta	Xanthones	1
+GDNF	1-methyl-4-phenylpyridinium	1
+GDNF	adenosine	1
+GDNF	amphetamine	1
+GDNF	bilirubin	1
+GDNF	capsaicin	1
+GDNF	Dopamine	1
+GDNF	KW6002	1
+GDNF	Levodopa	1
+GDNF	Pro-PD	1
+GDNF	SIN-W	1
+GDNF	TH	1
+GDNF	TOT	1
+GDNF	TOT-AT	1
+GDNF	tyrosine	1
+Apolipoprotein E	1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine	1
+Apolipoprotein E	1-methyl-4-phenylpyridinium	1
+Apolipoprotein E	dopamine	1
+Apolipoprotein E	isoleucine	1
+Apolipoprotein E	levodopa	1
+Apolipoprotein E	lipid	1
+Apolipoprotein E	MPP+	1
+Apolipoprotein E	MPTP	1
+Apolipoprotein E	pentanucleotide	1
+Apolipoprotein E	tyrosine	1
+Apolipoprotein E	valine	1
+GDNF	[S,R]-sulfoximine	1
+GDNF	1-methyl-4-phenylpyridinium	1
+GDNF	Apomorphine	1
+GDNF	dihydroxyphenylacetic acid	1
+GDNF	Dopamine	1
+GDNF	Glutathione	1
+GDNF	L-buthionine	1
+GDNF	lipid peroxides	1
+GDNF	lipopolysaccharide	1
+GDNF	MPP+	1
+GDNF	polymer	1
+GDNF	potassium	1
+GDNF	retinoic acid	1
+GDNF	rotenone	1
+GDNF	Ser9	1
+GDNF	SIN-W	1
+GDNF	TH	1
+ET	alcohol	1
+ET	dopamine	1
+ET	fluoropropyl-carbomethoxylodopropyl-nor-ss-tropane	1
+ET	GT	1
+ET	propranolol	1
+TNF-alpha	3-(4, 5-dimethyl-2-thiazolyl)-2, 5-diphenyl-2-H-tetrazolium bromide	1
+TNF-alpha	34a	1
+TNF-alpha	6-OHDA	1
+TNF-alpha	acetylcholine	1
+TNF-alpha	adalimumab	1
+TNF-alpha	adenine	1
+TNF-alpha	bilirubin	1
+TNF-alpha	Ca2+	1
+TNF-alpha	chitosan	1
+TNF-alpha	Chitosan	1
+TNF-alpha	Cys	1
+TNF-alpha	density	1
+TNF-alpha	dextran sodium sulfate	1
+TNF-alpha	fluoropeptides	1
+TNF-alpha	flupirtine	1
+TNF-alpha	glutathione	1
+TNF-alpha	hydrogen	1
+TNF-alpha	idebenone	1
+TNF-alpha	kaempferol	1
+TNF-alpha	Levodopa	1
+TNF-alpha	lipids	1
+TNF-alpha	lipopolysaccharide	1
+TNF-alpha	lipopolysaccharides	1
+TNF-alpha	malondialdehyde	1
+TNF-alpha	N-acetylcysteine	1
+TNF-alpha	N-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+TNF-alpha	N-methyl-4-phenylpyridine	1
+TNF-alpha	norepinephrine	1
+TNF-alpha	oxygen	1
+TNF-alpha	Oxygen	1
+TNF-alpha	PBM	1
+TNF-alpha	pramipexole	1
+TNF-alpha	quercetin	1
+TNF-alpha	rasagiline	1
+TNF-alpha	resveratrol	1
+TNF-alpha	RHCl	1
+TNF-alpha	Ropinirole hydrochloride	1
+TNF-alpha	ROS	1
+TNF-alpha	steroid	1
+TNF-alpha	superoxide	1
+TNF-alpha	Tfh	1
+TNF-alpha	thymoquinone	1
+TNF-alpha	Thymoquinone	1
+TNF-alpha	TOT	1
+TNF-alpha	TOT-AT	1
+TNF-alpha	triacylglycerols	1
+TNF-alpha	tyrosine	1
+tyrosine hydroxylase	aminocrhome	1
+tyrosine hydroxylase	amphetamine	1
+tyrosine hydroxylase	Apomorphine	1
+tyrosine hydroxylase	Diosmin	1
+tyrosine hydroxylase	flavone	1
+tyrosine hydroxylase	iron	1
+tyrosine hydroxylase	malondialdehyde	1
+tyrosine hydroxylase	MDA	1
+tyrosine hydroxylase	nicotin	1
+tyrosine hydroxylase	quinazoline	1
+tyrosine hydroxylase	Salubrinal	1
+tyrosine hydroxylase	SN	1
+tyrosine hydroxylase	sodium-nitroprusside	1
+tyrosine hydroxylase	tetrahydrobiopterin	1
+tyrosine hydroxylase	tyrosine	1
+DJ-1	3-nitrotyrosine	1
+DJ-1	amantadine	1
+DJ-1	eosin	1
+DJ-1	hematoxylin	1
+DJ-1	lipopolysaccharide	1
+DJ-1	Lipopolysaccharide	1
+DJ-1	malondialdehyde	1
+DJ-1	MPTP	1
+DJ-1	oxygen	1
+DJ-1	superoxide	1
+DJ-1	tyrosine	1
+DJ-1	WA	1
+DJ-1	water	1
+Nrf2	1-methyl-4-phenylpyridinium	1
+Nrf2	6-hydroxy dopamine	1
+Nrf2	6-hydroxydopamine	1
+Nrf2	amantadine	1
+Nrf2	cysteine	1
+Nrf2	DA	1
+Nrf2	disubstituted dithiolethione ACDT	1
+Nrf2	dithiolethione 5-amino-3-thioxo-3H-(1,2) dithiole-4-carboxylic acid ethyl ester	1
+Nrf2	dithiolethiones	1
+Nrf2	Dithiolethiones	1
+Nrf2	flavonoid	1
+Nrf2	flavonol	1
+Nrf2	glutathione	1
+Nrf2	Glutathione	1
+Nrf2	H2 O2	1
+Nrf2	iron	1
+Nrf2	Manganese	1
+Nrf2	MnCl2	1
+Nrf2	MPTP	1
+Nrf2	nitrite	1
+Nrf2	oxygen	1
+Nrf2	Resveratrol	1
+Nrf2	Ser129	1
+Nrf2	serotonin	1
+Nrf2	tyrosine	1
+Nrf2	WA	1
+Nrf2	water	1
+PGP9.5	]-metaiodobenzylguanidine	1
+PGP9.5	digoxygenin	1
+PGP9.5	dopamine	1
+PGP9.5	Dopamine	1
+PGP9.5	glucose	1
+PGP9.5	levodopa	1
+PGP9.5	melanin	1
+PGP9.5	tyrosine	1
+parkin	paraquat	1
+AKT	1-methyl-4-phenylpyridinium iodide	1
+AKT	1-methyl-4-phenylpyridium	1
+AKT	3-bromopyruvic acid	1
+AKT	acetate	1
+AKT	aglycone	1
+AKT	butyrate	1
+AKT	cAMP	1
+AKT	glutathione	1
+AKT	glycosides	1
+AKT	hydrogen-saturated saline	1
+AKT	Hydrogen-saturated saline	1
+AKT	iron	1
+AKT	kaempferol	1
+AKT	lipid	1
+AKT	Luteolin	1
+AKT	O2-	1
+AKT	polyphenol	1
+AKT	Propionate	1
+AKT	quercetin	1
+AKT	rapamycin	1
+AKT	SC79	1
+AKT	SCFA	1
+AKT	short-chain fatty acids	1
+AKT	superoxide	1
+AKT	superoxide anion	1
+AKT	Treg	1
+AKT	Tregs	1
+AKT	tyrosine	1
+AKT	water	1
+ATP13A2	calcium	1
+ATP13A2	Dopamine	1
+ATP13A2	glucose	1
+ATP13A2	hexanucleotide	1
+ATP13A2	L-dopa	1
+ATP13A2	linc001128	1
+ATP13A2	linc0938	1
+ATP13A2	miR-24-3p	1
+ATP13A2	miR-30c-5p	1
+PINK-1	ATP	1
+PINK-1	dopamine	1
+PINK-1	paraquat	1
+VPS35	123I-metaiodobenzylguanidine	1
+VPS35	3,4-dihydroxyphenylacetic acid	1
+VPS35	3H	1
+VPS35	asparagine	1
+VPS35	carbidopa	1
+VPS35	DAB	1
+VPS35	DOPAC	1
+VPS35	Dopamine	1
+VPS35	FE-PE2I	1
+VPS35	G4s	1
+VPS35	glucose	1
+VPS35	homovanillic acid	1
+VPS35	HVA	1
+VPS35	Levodopa	1
+VPS35	NTg	1
+DRD2	(S)-5-iodo-7-N-[(1-ethyl-2- pyrrolidinyl)methyl]carboxamido-2,3-dihydrobenzofuran	1
+DRD2	[11C]raclopride	1
+DRD2	2H	1
+DRD2	3-iodo-6-methoxybenzamine	1
+DRD2	aminobenzothiazole	1
+DRD2	benserazide	1
+DRD2	benserazide hydrochloride	1
+DRD2	ciprofloxacin	1
+DRD2	CU	1
+DRD2	Cys311	1
+DRD2	Delta-T3	1
+DRD2	dopa	1
+DRD2	Gamma-T3	1
+DRD2	L-dopa	1
+DRD2	L-DOPA	1
+DRD2	L-Dopa methyl ester	1
+DRD2	lisuride	1
+DRD2	manganese	1
+DRD2	Manganese	1
+DRD2	MPTP	1
+DRD2	phosphosite	1
+DRD2	potassium	1
+DRD2	quinpirole	1
+DRD2	RAC	1
+DRD2	reactive oxygen species	1
+DRD2	retinoic acid	1
+DRD2	Ser311	1
+DRD2	SKF 81297	1
+DRD2	theophylline	1
+DRD2	tocotrienol	1
+DRD2	tolcapone	1
+DRD2	tyrosine	1
+Syn	1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine	1
+Syn	1-methyl-4-phenylpyridinium	1
+Syn	6-hydroxydopamine	1
+Syn	6-OHDA	1
+Syn	8-anilinonaphthalene-1-sulfonic acid	1
+Syn	alcohol	1
+Syn	Alcohol	1
+Syn	arachidonic acid	1
+Syn	calcium	1
+Syn	Cu2+	1
+Syn	Fe3+	1
+Syn	Iron	1
+Syn	KW6002	1
+Syn	L-DOPA	1
+Syn	levodopa	1
+Syn	lipid bilayer	1
+Syn	lipids	1
+Syn	metal	1
+Syn	MPP+	1
+Syn	MPTP	1
+Syn	n-acetylneuraminic acid	1
+Syn	n-Acetylneuraminic Acid	1
+Syn	psychosine	1
+Syn	rotenone	1
+Syn	Ser129	1
